@@ -19,8 +19,7 @@ images:
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145763/20220715_101038_pfo9a2_lcklks.webp
     alt: Drzwi góralskie zbliżenie na dół
 ---
-
-# Realizacja: Drzwi góralskie z litego drewna - (Konina, Małopolska)
+# Realizacja: Drzwi góralskie z litego drewna - (Nowy Sącz, Małopolska)
 
 Dla klienta z miejscowości Konina w Małopolsce wykonaliśmy drzwi góralskie na wymiar. To wyjątkowy projekt, który łączy
 w sobie tradycyjne wzornictwo regionalne z nowoczesną funkcjonalnością. Dzięki ręcznym zdobieniom snycerskim oraz
