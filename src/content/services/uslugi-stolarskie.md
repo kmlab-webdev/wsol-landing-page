@@ -1,30 +1,30 @@
 ---
-title: Usługi stolarskie
-metaTitle: Usługi stolarskie Małopolska | Stolarnia Tadeusz Wsół
+title: Kompleksowe usługi stolarskie
+metaTitle: Kompleksowe usługi stolarskie w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-  Usługi stolarskie w Małopolsce. Stolarnia Tadeusz Wsół – meble, elementy
-  dekoracyjne, projekty indywidualne i nietypowe realizacje na wymiar.
+  Stolarnia Wsół – usługi stolarskie w Małopolsce.
+  Drzwi, schody, okna i elementy drewniane na wymiar. Skontaktuj się i zamów realizację już dziś!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145911/20221208_160515_f9pkeh_lahlbx.webp
-    alt: Zdjęcie domku góralskiego
-  - src: >-
-      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145903/IMG-20221002-WA0028_jjefhf_rh2ybd.webp
     alt: Schody drewniane 1
   - src: >-
-      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145900/20250324_171533_kvnm3d_y6gfbs.webp
+      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145903/IMG-20221002-WA0028_jjefhf_rh2ybd.webp
     alt: Schody drewniane 2
   - src: >-
-      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145904/czarnerzezbienia_lrh6q8_wj57f9.webp
+      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145900/20250324_171533_kvnm3d_y6gfbs.webp
     alt: Schody drewniane 3
   - src: >-
-      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145895/20160620_141006_fhab5d_egxcxt.webp
+      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145904/czarnerzezbienia_lrh6q8_wj57f9.webp
     alt: Schody drewniane 4
   - src: >-
-      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145895/20171109_165759_gyykxs_xblu4m.webp
+      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145895/20160620_141006_fhab5d_egxcxt.webp
     alt: Schody drewniane 5
+  - src: >-
+      https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145895/20171109_165759_gyykxs_xblu4m.webp
+    alt: Schody drewniane 6
 ---
-# Usługi stolarskie w Małopolsce
+# Kompleksowe usługi stolarskie w Małopolsce
 
 Stolarka to nasza pasja i rzemiosło, które rozwijamy od lat. W Stolarni Tadeusz Wsół w Koninie (gmina Niedźwiedź, powiat
 limanowski, Małopolska) oferujemy szeroki zakres usług stolarskich – od projektów indywidualnych, przez wykonanie

@@ -1,28 +1,28 @@
 ---
-title: Schody drewniane
-metaTitle: Schody drewniane Małopolska | Stolarnia Tadeusz Wsół
+title: Schody drewniane na wymiar
+metaTitle: Schody drewniane na wymiar w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-  Schody drewniane na wymiar w Małopolsce. Stolarnia Tadeusz Wsół – solidne,
-  stylowe i dopasowane do wnętrza. Skontaktuj się i zamów schody już dziś.
+  Stolarnia Wsół – schody drewniane na wymiar w Małopolsce.
+  Trwałe, bezpieczne i wykonane z litego drewna. Skontaktuj się i zamów projekt już dziś!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145783/IMG-20230313-WA0018_ho3qme_dnmqat.webp
-    alt: Schody drewniane ręcznie robione góralskie
+    alt: Schody drewniane 1
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145783/IMG-20230313-WA0007_dkgbg3_oiqoi7.webp
-    alt: Schody drewniane
+    alt: Schody drewniane 2
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/IMG-20230313-WA0017_dln3ru_gwvtxy.webp
-    alt: Schody drewniane
+    alt: Schody drewniane 3
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/IMG-20230313-WA0016_kw9zz1_izea35.webp
-    alt: Schody drewniane
+    alt: Schody drewniane 4
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145782/IMG-20230313-WA0014_h147as_wmymyf.webp
-    alt: Schody drewniane
+    alt: Schody drewniane 5
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/20201001_165805_fc6fym_h6tsvk.webp
-    alt: Schody drewniane
+    alt: Schody drewniane 6
 ---
 # Schody drewniane na wymiar w Małopolsce
 

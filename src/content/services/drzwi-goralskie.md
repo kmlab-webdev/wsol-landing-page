@@ -1,31 +1,31 @@
 ---
-title: Drzwi góralskie
-metaTitle: Drzwi góralskie Małopolska | Stolarnia Tadeusz Wsół
+title: Drzwi góralskie na wymiar
+metaTitle: Drzwi góralskie na wymiar w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-  Drzwi góralskie na wymiar w Małopolsce. Stolarnia Tadeusz Wsół – tradycja
-  Podhala, unikalne wzory i solidne wykonanie na lata.
+  Stolarnia Wsół – drzwi góralskie na wymiar w Małopolsce.
+  Tradycyjne zdobienia, solidne drewno i profesjonalny montaż. Skontaktuj się już dziś!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145771/20230420_110211_nbrh6k_qran4y.webp
-    alt: Drzwi góralskie z frezowanymi przodami
+    alt: Drzwi góralskie 1
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145769/20200903_083032_resqww_vsqlix.webp
-    alt: Drzwi górskie
+    alt: Drzwi góralskie 2
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145768/IMG_20170824_095017_TdFEcew_zslskb_whfrls.webp
-    alt: Drzwi górskie
+    alt: Drzwi góralskie 3
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145767/IMG-20220121-WA0003_c819oi_ty73ed.webp
-    alt: Drzwi górskie
+    alt: Drzwi góralskie 4
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145766/20210522_094749_atcdcs_hiuz1f.webp
-    alt: Drzwi górskie
+    alt: Drzwi góralskie 5
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145763/20200905_134734_w7p23j_sb6iwz.webp
-    alt: Drzwi górskie
+    alt: Drzwi góralskie 6
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145763/20220715_101029_3o4mE2N_wsw45h_jpaurg.webp
-    alt: Drzwi góralskie
+    alt: Drzwi góralskie 7
 ---
 # Drzwi góralskie na wymiar w Małopolsce
 

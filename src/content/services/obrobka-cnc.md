@@ -1,30 +1,30 @@
 ---
-title: Obróbka CNC
-metaTitle: Obróbka CNC Małopolska | Stolarnia Tadeusz Wsół
+title: Profesjonalna obróbka CNC
+metaTitle: Profesjonalna obróbka CNC w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-  Profesjonalna obróbka CNC w Małopolsce. Stolarnia Tadeusz Wsół – precyzja,
-  nowoczesne technologie i indywidualne projekty. Zapytaj o ofertę CNC.
+  Stolarnia Wsół – obróbka CNC drewna w Małopolsce.
+  Precyzyjne cięcie, frezowanie i realizacja indywidualnych projektów. Skontaktuj się już dziś!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-    alt: Płyta wycięta za pomocą CNC
+    alt: Obróbka CNC 1
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-    alt: Obróbka CNC
+    alt: Obróbka CNC 2
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-    alt: Obróbka CNC
+    alt: Obróbka CNC 3
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-    alt: Obróbka CNC
+    alt: Obróbka CNC 4
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-    alt: Obróbka CNC
+    alt: Obróbka CNC 5
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-    alt: Obróbka CNC
+    alt: Obróbka CNC 6
 ---
-# Obróbka CNC w Małopolsce
+# Profesjonalna obróbka CNC w Małopolsce
 
 Nowoczesna stolarka wymaga precyzji i powtarzalności. Właśnie dlatego w Stolarni Tadeusz Wsół w Koninie (gmina
 Niedźwiedź, powiat limanowski, Małopolska) oferujemy profesjonalną obróbkę CNC drewna. Dzięki zaawansowanym maszynom

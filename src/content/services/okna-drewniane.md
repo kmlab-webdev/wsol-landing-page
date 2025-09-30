@@ -1,31 +1,31 @@
 ---
-title: Okna drewniane
-metaTitle: Okna drewniane Małopolska | Stolarnia Tadeusz Wsół
+title: Okna drewniane na wymiar
+metaTitle: Okna drewniane na wymiar w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-  Okna drewniane na wymiar w Małopolsce. Stolarnia Tadeusz Wsół – trwałość,
-  energooszczędność i elegancja. Sprawdź ofertę i zamów swoje okna.
+  Stolarnia Wsół – okna drewniane na wymiar w Małopolsce.
+  Energooszczędne, stylowe i trwałe rozwiązania do domu. Skontaktuj się i sprawdź ofertę!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145779/20210213_161906_bkghqw_sswzow.webp
-    alt: Okna drewniane dwuskrzydłowe z trzema szybami
+    alt: Okna drewniane 1
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145778/20160406_165145_joco8s_fgfcrg.webp
-    alt: Okna drewniane
+    alt: Okna drewniane 2
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145915/20220817_095306_lgqopr_p9pard.webp
-    alt: Okna drewniane
+    alt: Okna drewniane 3
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145894/20160620_140935_lzlors_b8vss9.webp
-    alt: Okna drewniane
+    alt: Okna drewniane 4
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/20160407_172755_cxgg11_qdxq5l.webp
-    alt: Okna drewniane
+    alt: Okna drewniane 5
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145896/20200228_163841_g54zod_mpmoki.webp
-    alt: Okna drewniane
+    alt: Okna drewniane 6
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145780/20240111_154121_wbb2iy_v7vgec.webp
-    alt: Okno
+    alt: Okno drewniane 7
 ---
 # Okna drewniane na wymiar w Małopolsce
 

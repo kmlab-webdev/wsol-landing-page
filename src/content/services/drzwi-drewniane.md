@@ -1,28 +1,28 @@
 ---
-title: Drzwi drewniane
-metaTitle: Drzwi drewniane Małopolska | Stolarnia Tadeusz Wsół
+title: Drzwi drewniane na wymiar
+metaTitle: Drzwi drewniane na wymiar w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-  Drzwi drewniane na wymiar w Małopolsce. Stolarnia Tadeusz Wsół – tradycja,
-  solidność i nowoczesna technologia. Zamów drzwi dla swojego domu.
+   Stolarnia Wsół – drzwi drewniane na wymiar w Małopolsce.
+   Ręczne wykonanie, solidne drewno i montaż od specjalistów. Skontaktuj się już dziś!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145907/20230327_103210_vanmg8_l1danu.webp
-    alt: Drzwi drewniane z brązową wstawką
+    alt: Drzwi drewniane 1
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145774/WhatsApp_Image_2025-06-06_at_11.26.03_bo74gm_jdueoy.webp
-    alt: Drzwi drewniane przeszklone
+    alt: Drzwi drewniane 2
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145776/IMG-20220810-WA0011_t4yy7q_ermw4p.webp
-    alt: Drzwi drewniane brązowe przeszklone z czarną podłużną rączką
+    alt: Drzwi drewniane 3
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145775/20240902_155321_y8z7xf_fh7ool.webp
-    alt: Drzwi drewniane białe wewnętrzne
+    alt: Drzwi drewniane 4
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145775/IMG-20210818-WA0001_ai8tjh_zad0uq.webp
-    alt: Drzwi drewniane szare z małymi szybkami
+    alt: Drzwi drewniane 5
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145774/20240904_134640_fkyamo_co8uog.webp
-    alt: Drzwi drewniane białe pełne
+    alt: Drzwi drewniane 6
 ---
 # Drzwi drewniane na wymiar w Małopolsce
 

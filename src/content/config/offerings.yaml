@@ -1,63 +1,71 @@
 subject: OFERTA
-title: Co możemy dla Ciebie wykonać?
+title: Nasze usługi stolarskie w Małopolsce
 description: >-
-  W Zakładzie Stolarskim Wsół wykonujemy kompleksowe usługi stolarskie. Tworzymy
-  drzwi, okna, schody i elementy wykończeniowe z litego drewna, realizując
-  projekty indywidualne i dopasowane do architektury budynku. Każdy produkt
-  powstaje z najlepszych materiałów, zapewniając trwałość, energooszczędność i
-  unikalny design.
+  Stolarnia Wsół specjalizuje się w tworzeniu drzwi, schodów, okien i innych elementów drewnianych na wymiar.
+  Łączymy tradycyjne rzemiosło z nowoczesnym designem i solidnymi materiałami, realizując indywidualne projekty dopasowane do Twojego domu.
 items:
-  - title: Drzwi drewniane
+  - title: Drzwi drewniane na wymiar
     description: >-
-      Drzwi drewniane na wymiar – zewnętrzne i wewnętrzne, klasyczne, nowoczesne
-      lub stylowe, z najlepszymi okuciami i wykończeniami.
+      Drzwi drewniane na wymiar w Małopolsce – wewnętrzne i zewnętrzne, klasyczne
+      i nowoczesne. Stolarnia Wsół gwarantuje solidne wykonanie i elegancki wygląd
+      dopasowany do Twojego domu oraz niesamowitą trwałość.
     image:
       src: >-
         https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145776/IMG-20220810-WA0011_t4yy7q_ermw4p.webp
-      alt: Obraz 1
+      alt: Solidne i eleganckie drzwi drewniane wykonane na wymiar przez stolarnię Wsół z Małopolski.
     url: /oferta/drzwi-drewniane/
-  - title: Schody drewniane
+
+  - title: Schody drewniane na wymiar
     description: >-
-      Schody drewniane – proste, zabiegowe, samonośne, na konstrukcjach
-      stalowych lub drewnianych, z montażem i pełną gwarancją bezpieczeństwa.
+      Schody drewniane na wymiar w Małopolsce – proste, zabiegowe, samonośne lub
+      na konstrukcjach stalowych. Stolarnia Wsół tworzy trwałe schody z litego
+      drewna, łącząc wygodę, bezpieczeństwo i estetykę.
     image:
       src: >-
         https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/IMG-20230313-WA0017_dln3ru_gwvtxy.webp
-      alt: Obraz 2
+      alt: Trwałe i bezpieczne schody drewniane na wymiar wykonane przez stolarnię Wsół z Małopolski.
     url: /oferta/schody-drewniane/
-  - title: Okna drewniane
+
+  - title: Okna drewniane na wymiar
     description: >-
-      Okna drewniane energooszczędne – certyfikowane drewno, doskonała izolacja
-      i komfort użytkowania przez długie lata.
+      Okna drewniane na wymiar w Małopolsce – trwałe, energooszczędne i estetyczne.
+      Stolarnia Wsół wykorzystuje certyfikowane drewno i nowoczesne technologie,
+      aby zapewnić komfort, ciepło i niezawodność na lata.
     image:
       src: >-
         https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145779/20210213_161906_bkghqw_sswzow.webp
-      alt: Obraz 3
+      alt: Energooszczędne i stylowe okna drewniane na wymiar wykonane przez stolarnię Wsół z Małopolski.
     url: /oferta/okna-drewniane/
-  - title: Drzwi góralskie
+
+  - title: Drzwi góralskie na wymiar
     description: >-
-      Drzwi góralskie – unikalne rękodzieło, tradycyjne zdobienia i styl
-      regionalny idealny do domów i pensjonatów.
+      Drzwi góralskie na wymiar w Małopolsce – ręcznie zdobione, w tradycyjnym
+      stylu regionalnym. Stolarnia Wsół wykonuje solidne i unikalne drzwi, idealne
+      do domów, pensjonatów i obiektów w góralskim klimacie.
     image:
       src: >-
         https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145771/20230420_110211_nbrh6k_qran4y.webp
-      alt: Obraz 4
+      alt: Tradycyjne i ozdobne drzwi góralskie wykonane przez stolarnię Wsół z Małopolski.
     url: /oferta/drzwi-goralskie/
-  - title: Obróbka CNC
+
+  - title: Profesjonalna obróbka CNC
     description: >-
-      Obróbka CNC – precyzyjne frezowanie i cięcie, elementy dekoracyjne,
-      nietypowe wzory, realizacja indywidualnych projektów.
+      Profesjonalna obróbka CNC drewna w Małopolsce – precyzyjne cięcie i
+      frezowanie na zamówienie. Stolarnia Wsół realizuje indywidualne projekty,
+      elementy dekoracyjne i nietypowe wzory w najwyższej jakości.
     image:
       src: >-
         https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
-      alt: Obraz 5
+      alt: Precyzyjna i nowoczesna obróbka CNC drewna wykonana przez stolarnię Wsół z Małopolski.
     url: /oferta/obrobka-cnc/
-  - title: Usługi stolarskie
+
+  - title: Kompleksowe usługi stolarskie
     description: >-
-      Usługi stolarskie – wykończenia wnętrz i inne elementy drewniane
-      wykonywane na zamówienie.
+      Kompleksowe usługi stolarskie w Małopolsce – drzwi, schody, okna i inne
+      elementy z drewna. Stolarnia Wsół realizuje projekty na wymiar, łącząc
+      tradycję rzemiosła z nowoczesnym stylem i indywidualnym podejściem.
     image:
       src: >-
         https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145911/20221208_160515_f9pkeh_lahlbx.webp
-      alt: Obraz 6
+      alt: Profesjonalne i kompleksowe usługi stolarskie na wymiar wykonane przez stolarnię Wsół z Małopolski.
     url: /oferta/uslugi-stolarskie/
