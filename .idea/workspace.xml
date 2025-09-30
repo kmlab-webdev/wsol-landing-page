@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4e26c25-1d9e-470c-9ed9-60da37bb3b7b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cards/offering-card.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cards/offering-card.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/config/offerings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/config/offerings.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/services/drzwi-drewniane.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/services/drzwi-drewniane.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/services/drzwi-goralskie.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/services/drzwi-goralskie.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/services/obrobka-cnc.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/services/obrobka-cnc.md" afterDir="false" />
@@ -112,7 +110,7 @@
       <workItem from="1758911401990" duration="14297000" />
       <workItem from="1758930220868" duration="49060000" />
       <workItem from="1759219975100" duration="1150000" />
-      <workItem from="1759241530556" duration="9713000" />
+      <workItem from="1759241530556" duration="16276000" />
     </task>
     <servers />
   </component>

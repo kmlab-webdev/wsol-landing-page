@@ -2,8 +2,8 @@
 title: Drzwi drewniane na wymiar
 metaTitle: Drzwi drewniane na wymiar w Małopolsce | Stolarnia Wsół
 metaDescription: >-
-   Stolarnia Wsół – drzwi drewniane na wymiar w Małopolsce.
-   Ręczne wykonanie, solidne drewno i montaż od specjalistów. Skontaktuj się już dziś!
+  Stolarnia Wsół – drzwi drewniane na wymiar w Małopolsce.
+  Ręczne wykonanie, solidne drewno i montaż od specjalistów. Skontaktuj się już dziś!
 images:
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145907/20230327_103210_vanmg8_l1danu.webp
@@ -24,82 +24,81 @@ images:
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145774/20240904_134640_fkyamo_co8uog.webp
     alt: Drzwi drewniane 6
 ---
+
 # Drzwi drewniane na wymiar w Małopolsce
 
-Drzwi drewniane to nie tylko element użytkowy, ale również wizytówka domu. Nadają charakter, podkreślają styl budynku i
-codziennie witają domowników oraz gości. W Stolarni Tadeusz Wsół w Koninie (gmina Niedźwiedź, powiat limanowski,
-Małopolska) od wielu lat specjalizujemy się w projektowaniu, produkcji i montażu drzwi drewnianych na wymiar – zarówno
-wewnętrznych, jak i zewnętrznych.
-
-Każde zlecenie traktujemy indywidualnie. Stosujemy wyłącznie drewno z certyfikowanych źródeł, a proces produkcji łączymy
-z tradycyjnym rzemiosłem oraz nowoczesną technologią CNC. Dzięki temu nasze drzwi wyróżniają się nie tylko pięknym
-wyglądem, ale również trwałością i funkcjonalnością przez długie lata.
+Solidne i eleganckie **drzwi drewniane na wymiar** to najlepszy wybór dla osób, które cenią trwałość, bezpieczeństwo i
+ponadczasowy wygląd. W **Stolarni Wsół** od lat tworzymy **drewniane drzwi wewnętrzne i zewnętrzne**, dopasowane do
+potrzeb
+klientów z całej **Małopolski** – od Krakowa, przez Limanową, po Nowy Sącz i okolice. Każdy projekt łączy tradycyjne
+rzemiosło stolarskie z nowoczesnymi rozwiązaniami, co gwarantuje wyjątkową estetykę i niezawodność przez lata.
 
 ---
 
-## Dlaczego warto wybrać drzwi drewniane?
+## Poznaj naszą ofertę drzwi drewnianych
 
-- **Naturalny materiał** — drewno jest ponadczasowe, ekologiczne i estetyczne.
-- **Wysoka trwałość** — odpowiednio zabezpieczone drzwi drewniane wytrzymają dziesiątki lat.
-- **Indywidualny design** — wykonujemy drzwi w dowolnym stylu: klasycznym, nowoczesnym, rustykalnym, góralskim.
-- **Energooszczędność** — drewno doskonale izoluje termicznie i akustycznie.
-- **Unikalność** — każda realizacja jest jedyna w swoim rodzaju.
-
----
-
-## Rodzaje drzwi drewnianych, które wykonujemy
-
-W naszej stolarni projektujemy i produkujemy:
-
-- **Drzwi wewnętrzne drewniane** — lekkie, estetyczne i dopasowane do charakteru wnętrza.
-- **Drzwi zewnętrzne drewniane** — solidne, bezpieczne i odporne na zmienne warunki atmosferyczne.
-- **Drzwi góralskie** — ręcznie zdobione, inspirowane tradycją Podhala i Małopolski.
-- **Drzwi nowoczesne** — z gładkimi powierzchniami, przeszkleniami i minimalistycznymi detalami.
-- **Drzwi klasyczne i rustykalne** — z dekoracyjnymi frezowaniami, które nadają elegancji.
-
-Każdy model wykonujemy na wymiar, z możliwością wyboru drewna, koloru, okuć oraz zdobień.
+- **Drzwi zewnętrzne drewniane** – trwałe i odporne na warunki atmosferyczne
+- **Drzwi wewnętrzne drewniane** – klasyczne, nowoczesne i minimalistyczne
+- **Drzwi góralskie** - z ręcznymi zdobieniami w tradycyjnym stylu
+- **Projekty na wymiar** – dopasowane do elewacji i wnętrza domu
 
 ---
 
-## Jak wygląda realizacja zamówienia drzwi drewnianych?
+## Dlaczego warto wybrać nasze drzwi drewniane?
 
-1. **Kontakt i pomiar** – ustalamy Twoje potrzeby, dokonujemy pomiaru i doradzamy najlepsze rozwiązania.
-1. **Projekt i wycena** – przygotowujemy indywidualny projekt oraz szczegółową wycenę.
-1. **Produkcja drzwi** – realizujemy zamówienie w naszej stolarni w Koninie, z wykorzystaniem CNC i ręcznego
-   wykończenia.
-1. **Transport i montaż** – dostarczamy gotowe drzwi i montujemy je w Twoim domu na terenie całej Małopolski.
-
----
-
-## Najczęściej zadawane pytania (FAQ)
-
-**Ile kosztują drzwi drewniane na wymiar?**\
-Cena zależy od rodzaju drewna, stylu wykończenia oraz zastosowanych okuć. Standardowe drzwi wewnętrzne zaczynają się od
-X zł, a drzwi zewnętrzne od Y zł. Każde zamówienie wyceniamy indywidualnie.
-
-**Czy zapewniacie montaż drzwi?**\
-Tak. Nasza oferta obejmuje kompleksową obsługę: pomiar, projekt, transport i montaż drzwi w Małopolsce.
-
-**Jak długo trwa realizacja zamówienia?**\
-Średni czas realizacji wynosi od 4 do 8 tygodni w zależności od stopnia skomplikowania projektu.
-
-**Czy można zamówić drzwi góralskie?**\
-Tak. To nasza specjalność – wykonujemy drzwi góralskie z unikalnymi zdobieniami.
-
-**Czy zajmujecie się renowacją starych drzwi?**\
-Tak, w wybranych przypadkach podejmujemy się renowacji zabytkowych i starych drzwi drewnianych.
+- **Indywidualne projekty** – każdy komplet drzwi wykonujemy na zamówienie
+- **Naturalne materiały** – lite drewno z certyfikowanych źródeł
+- **Estetyka i styl** – od drzwi klasycznych po unikalne drzwi góralskie
+- **Kompleksowa obsługa** – pomiar, projekt, wykonanie i montaż
 
 ---
 
-## Skontaktuj się z nami
+## Jak wygląda proces realizacji drzwi drewnianych?
 
-Planujesz zamówić **drzwi drewniane** na wymiar w **Małopolsce**?\
-W **Zakładzie Stolarskim Wsół** wykonujemy drzwi, okna i schody drewniane na wymiar - solidne, estetyczne i dopasowane do Twojego domu.
+1. **Pomiar i konsultacja** – spotkanie w domu klienta lub w naszej stolarni
+2. **Projekt drzwi drewnianych** – wizualizacja i wybór materiałów
+3. **Produkcja** – precyzyjne wykonanie w zakładzie stolarskim
+4. **Montaż** – profesjonalna instalacja drzwi w Twoim domu
 
-- Skontaktuj się z nami pod numerem telefonu **+48 534 630 520**
-- Możesz też wysłać wiadomość na adres **stolarz.wsol@op.pl**
-- Nasz zakład mieści się w **Koninie** (gm. Niedźwiedź, pow. limanowski, Małopolska)
-- Realizujemy zamówienia w całej **Małopolsce** – od Limanowej po Kraków i okolice.
+---
+
+## Najczęściej zadawane pytania odnośnie drzwi drewnianych
+
+**Ile kosztują drzwi drewniane na wymiar w Małopolsce?**
+Cena zależy od rodzaju drewna, wymiarów i wykończenia. Przygotowujemy indywidualną wycenę po konsultacji i pomiarze.
+
+**Jak długo trwa realizacja drzwi drewnianych na wymiar?**
+Średni czas realizacji to od 4 do 8 tygodni w zależności od projektu i wybranego wykończenia.
+
+**Czy zapewniacie montaż drzwi drewnianych?**\
+Tak. Nasza oferta obejmuje kompleksową obsługę: pomiar, projekt, transport i montaż drzwi drewnianych w Małopolsce.
+
+**Czy wykonujecie drzwi drewniane tylko w Małopolsce?**
+Nasza stolarnia mieści się w Koninie (gm. Niedźwiedź), ale obsługujemy klientów w całej Małopolsce – m.in. w Krakowie,
+Limanowej, Nowym Sączu i okolicach.
+
+---
+
+## Chcesz zamówić drzwi drewniane na wymiar w Małopolsce?
+
+Pomożemy Ci wybrać odpowiedni styl **drzwi drewnianych**, przygotujemy projekt i zajmiemy się montażem.
+Skontaktuj się z nami, aby uzyskać darmową wycenę.
+
+- Telefon: **+48 534 630 520**
+- E-mail: **stolarz.wsol@op.pl**
+- Adres: **Konina**, gm. Niedźwiedź, pow. limanowski, Małopolska
+
+Realizujemy zamówienia w całej **Małopolsce** – od Krakowa po Nowy Sącz i okolice.
+
+---
+
+## Sprawdź nasze pozostałe oferty stolarskie
+
+- [Schody drewniane na wymiar](/oferta/schody-drewniane/)
+- [Okna drewniane na wymiar](/oferta/okna-drewniane/)
+- [Drzwi góralskie na wymiar](/oferta/drzwi-goralskie/)
+- [Profesjonalna obróbka CNC](/oferta/obrobka-cnc/)
+- [Kompleksowe usługi stolarskie](/oferta/uslugi-stolarskie/)
 
 ---
 

@@ -24,78 +24,77 @@ images:
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/20201001_165805_fc6fym_h6tsvk.webp
     alt: Schody drewniane 6
 ---
+
 # Schody drewniane na wymiar w Małopolsce
 
-Schody to nie tylko element użytkowy, ale również ważny detal aranżacyjny wnętrza. W Stolarni Tadeusz Wsół w Koninie (
-gmina Niedźwiedź, powiat limanowski, Małopolska) tworzymy schody drewniane na wymiar, które łączą solidność, estetykę i
-funkcjonalność.
-
-Każde zlecenie realizujemy indywidualnie – od pomiarów i projektu, przez produkcję w naszej pracowni, aż po
-profesjonalny montaż u klienta. Korzystamy z certyfikowanego drewna oraz nowoczesnej technologii CNC, dzięki czemu nasze
-schody są trwałe i perfekcyjnie dopasowane.
+Solidne i estetyczne **schody drewniane na wymiar** to nie tylko funkcjonalny element domu, ale także jego wyjątkowa
+ozdoba.
+W **Stolarni Wsół** od lat projektujemy i wykonujemy **schody z litego drewna**, które łączą trwałość, bezpieczeństwo i
+ponadczasowy styl. Realizujemy zamówienia w całej **Małopolsce** – od Krakowa, przez Limanową, aż po Nowy Sącz i
+okolice.
 
 ---
 
-## Dlaczego warto wybrać schody drewniane?
+## Poznaj naszą oferta schodów drewnianych
 
-- **Naturalne piękno** — drewno ociepla wnętrze i nadaje mu charakter.
-- **Uniwersalność** — schody pasują zarówno do nowoczesnych, jak i tradycyjnych wnętrz.
-- **Trwałość** — przy odpowiedniej pielęgnacji schody drewniane służą przez dziesięciolecia.
-- **Indywidualny design** — tworzymy schody w różnych stylach i formach.
-- **Komfort użytkowania** — drewno amortyzuje kroki, co zwiększa wygodę.
-
----
-
-## Rodzaje schodów drewnianych, które wykonujemy
-
-- **Schody proste** — klasyczne, funkcjonalne i eleganckie.
-- **Schody zabiegowe** — idealne do wnętrz, gdzie liczy się oszczędność miejsca.
-- **Schody kręcone** — efektowne i nowoczesne rozwiązanie.
-- **Schody policzkowe** — tradycyjne, stabilne i trwałe.
-- **Schody dywanowe** — minimalistyczne, nowoczesne, „lewitujące”.
-- **Schody z balustradą drewnianą lub stalową** — możliwość dopasowania do stylu wnętrza.
-
-Każdy projekt realizujemy na wymiar, dostosowując gatunek drewna, kolor i wykończenie do oczekiwań klienta.
+- **Schody proste** – klasyczne rozwiązania pasujące do nowoczesnych wnętrz
+- **Schody zabiegowe** – idealne w mniejszych przestrzeniach, funkcjonalne i wygodne
+- **Schody samonośne** – eleganckie konstrukcje bez dodatkowych podpór
+- **Schody na konstrukcji stalowej** – połączenie drewna i metalu dla loftowych wnętrz
 
 ---
 
-## Jak wygląda proces realizacji?
+## Dlaczego warto wybrać nasze schody drewniane?
 
-1. **Pomiar i konsultacja** — sprawdzamy warunki techniczne i omawiamy oczekiwania klienta.
-1. **Projekt i wycena** — przygotowujemy wizualizację schodów i indywidualną ofertę.
-1. **Produkcja schodów** — korzystamy z technologii CNC oraz ręcznego wykończenia.
-1. **Transport i montaż** — wykonujemy montaż schodów na terenie całej Małopolski.
-
----
-
-## Najczęściej zadawane pytania (FAQ)
-
-**Ile kosztują schody drewniane?**\
-Cena zależy od rodzaju drewna, kształtu i stopnia skomplikowania projektu. Standardowe schody zaczynają się od X zł.
-
-**Czy wykonujecie schody do domów nowoczesnych?**\
-Tak – tworzymy zarówno minimalistyczne schody dywanowe, jak i tradycyjne konstrukcje.
-
-**Jak długo trwa realizacja?**\
-Średnio od 6 do 12 tygodni, w zależności od projektu.
-
-**Jakie gatunki drewna są dostępne?**\
-Pracujemy głównie z dębem, jesionem, bukiem i sosną, ale na życzenie klienta możemy wykorzystać inne gatunki.
-
-**Czy oferujecie balustrady?**\
-Tak – wykonujemy balustrady drewniane, stalowe i szklane, dopasowane do schodów.
+- **Lite drewno wysokiej jakości** – trwałość na lata
+- **Indywidualny projekt** – dopasowanie do wnętrza i stylu domu
+- **Bezpieczeństwo i komfort** – odpowiednia szerokość i wysokość stopni
+- **Montaż z precyzją** – od projektu po gotowe schody
 
 ---
 
-## Skontaktuj się z nami
+## Jak wygląda proces realizacji drzwi drewnianych?
 
-Planujesz zamówić **schody drewniane** na wymiar w **Małopolsce**?\
-W **Zakładzie Stolarskim Wsół** wykonujemy drzwi, okna i schody drewniane na wymiar - solidne, estetyczne i dopasowane do Twojego domu.
+1. **Pomiar i konsultacja** – dopasowanie projektu do wnętrza
+2. **Projekt schodów drewnianych** – wizualizacja oraz wybór drewna i balustrad
+3. **Produkcja** – precyzyjne wykonanie schodów w naszej stolarni
+4. **Montaż** – profesjonalna instalacja w Twoim domu
 
-- Skontaktuj się z nami pod numerem telefonu **+48 534 630 520**
-- Możesz też wysłać wiadomość na adres **stolarz.wsol@op.pl**
-- Nasz zakład mieści się w **Koninie** (gm. Niedźwiedź, pow. limanowski, Małopolska)
-- Realizujemy zamówienia w całej **Małopolsce** – od Limanowej po Kraków i okolice.
+---
+
+## Najczęściej zadawane pytania odnośnie schodów drewnianych
+
+**Ile kosztują schody drewniane na wymiar w Małopolsce?**
+Cena zależy od konstrukcji, rodzaju drewna i wykończenia. Każdy projekt wyceniamy indywidualnie.
+
+**Jak długo trwa realizacja schodów drewnianych?**
+Standardowy czas realizacji to od 6 do 10 tygodni w zależności od stopnia skomplikowania projektu.
+
+**Czy wykonujecie schody drewniane tylko w Małopolsce?**
+Tak, głównie obsługujemy klientów w Małopolsce – m.in. w Krakowie, Limanowej, Nowym Sączu, Rabce i okolicach.
+
+---
+
+## Chcesz zamówić schody drewniane na wymiar w Małopolsce?
+
+Wykonamy dla Ciebie **schody drewniane** dopasowane do domu i Twojego stylu życia.
+Skontaktuj się z nami, aby otrzymać darmową wycenę i projekt.
+
+- Telefon: **+48 534 630 520**
+- E-mail: **stolarz.wsol@op.pl**
+- Adres: **Konina**, gm. Niedźwiedź, pow. limanowski, Małopolska
+
+Obsługujemy całą **Małopolskę** – od Krakowa po Nowy Sącz i okolice.
+
+---
+
+## Sprawdź też inne nasze oferty stolarskie
+
+- [Drzwi drewniane na wymiar](/oferta/drzwi-drewniane/)
+- [Okna drewniane na wymiar](/oferta/okna-drewniane/)
+- [Drzwi góralskie na wymiar](/oferta/drzwi-goralskie/)
+- [Profesjonalna obróbka CNC](/oferta/obrobka-cnc/)
+- [Kompleksowe usługi stolarskie](/oferta/uslugi-stolarskie/)
 
 ---
 

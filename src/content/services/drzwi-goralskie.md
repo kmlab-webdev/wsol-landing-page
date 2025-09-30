@@ -27,79 +27,78 @@ images:
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145763/20220715_101029_3o4mE2N_wsw45h_jpaurg.webp
     alt: Drzwi góralskie 7
 ---
+
 # Drzwi góralskie na wymiar w Małopolsce
 
-Drzwi góralskie to połączenie tradycji Podhala z solidnym rzemiosłem stolarskim. W Stolarni Tadeusz Wsół w Koninie (
-gmina Niedźwiedź, powiat limanowski, Małopolska) tworzymy drzwi góralskie z drewna zdobione ręcznymi ornamentami i
-wzorami inspirowanymi kulturą góralską. To unikalne rozwiązanie dla osób, które chcą nadać swojemu domowi charakter i
-wyjątkowy styl.
-
-Każde drzwi powstają na indywidualne zamówienie – dopasowujemy wymiary, wzory, kolorystykę i wykończenie. Wykorzystujemy
-drewno z certyfikowanych źródeł oraz tradycyjne techniki stolarskie wspierane nowoczesną obróbką CNC. Dzięki temu
-otrzymujesz drzwi trwałe, piękne i odporne na warunki atmosferyczne.
+Tradycyjne i ozdobne **drzwi góralskie na wymiar** to wyjątkowy element architektury regionalnej. W **Stolarni Wsół** od
+lat tworzymy drzwi inspirowane kulturą Podhala i **Małopolski** – solidne, ręcznie zdobione i wykonane z litego drewna.
+Nasze realizacje podkreślają charakter domów, pensjonatów i obiektów utrzymanych w góralskim stylu.
 
 ---
 
-## Dlaczego warto wybrać drzwi góralskie?
+## Poznaj naszą ofertę drzwi góralskich
 
-- **Tradycyjny styl** — unikalne wzory nawiązujące do kultury Podhala.
-- **Solidne wykonanie** — drzwi z litego drewna odporne na użytkowanie i pogodę.
-- **Indywidualne zdobienia** — ornamenty ręczne i frezowane CNC.
-- **Dopasowanie na wymiar** — każdy model projektowany pod Twój dom.
-- **Prestiż i unikalność** — drzwi góralskie to ozdoba i wizytówka budynku.
-
----
-
-## Rodzaje drzwi góralskich, które wykonujemy
-
-- **Drzwi zewnętrzne góralskie** — solidne, zabezpieczone powłokami ochronnymi.
-- **Drzwi wewnętrzne góralskie** — ozdobne, idealne do domów w stylu regionalnym.
-- **Drzwi z ornamentami ludowymi** — motywy roślinne, geometryczne i tradycyjne.
-- **Drzwi z szybami i witrażami** — połączenie drewna z dekoracyjnymi elementami.
-- **Drzwi stylizowane na zabytkowe** — rekonstrukcje historyczne i regionalne.
-
-Każdy projekt jest unikatowy – tworzymy drzwi zgodne z oczekiwaniami klienta i charakterem budynku.
+- **Drzwi wejściowe góralskie** – solidne, odporne i dekoracyjne
+- **Drzwi wewnętrzne góralskie** – zdobione ręcznie, idealne do domów i pensjonatów
+- **Drzwi stylizowane** – połączenie tradycyjnych motywów z nowoczesną funkcjonalnością
+- **Drzwi z rzeźbieniami** – unikalne wzory wykonywane na indywidualne zamówienie
 
 ---
 
-## Jak wygląda proces realizacji?
+## Dlaczego warto wybrać nasze drzwi góralskie?
 
-1. **Pomiar i konsultacja** — ustalamy wymiary i preferencje dotyczące wzoru.
-1. **Projekt drzwi** — przygotowujemy wizualizację z uwzględnieniem zdobień.
-1. **Produkcja** — wykorzystujemy technologię CNC i tradycyjne techniki rzemieślnicze.
-1. **Ręczne zdobienie i wykończenie** — nadajemy drzwiom indywidualny charakter.
-1. **Transport i montaż** — realizujemy zamówienia na terenie Małopolski i Podhala.
+- **Tradycyjny styl** – ręcznie wykonywane zdobienia inspirowane Podhalem
+- **Solidne drewno** – wytrzymałość i trwałość na lata
+- **Indywidualny projekt** – możliwość dopasowania zdobień i wzorów
+- **Wyjątkowy charakter** – idealne do domów w stylu góralskim i regionalnym
 
 ---
 
-## Najczęściej zadawane pytania (FAQ)
+## Jak wygląda proces realizacji drzwi góralskich?
 
-**Ile kosztują drzwi góralskie?**\
+1. **Pomiar i doradztwo** – dobór odpowiedniego stylu drzwi góralskich
+2. **Projekt** – wizualizacja i ustalenie detali zdobień
+3. **Produkcja** – wykonanie z litego drewna przez doświadczonych stolarzy
+4. **Montaż** – profesjonalne osadzenie drzwi zapewniające bezpieczeństwo i trwałość
+
+---
+
+## Najczęściej zadawane pytania odnośnie drzwi góralskich
+
+**Ile kosztują drzwi góralskie na wymiar w Małopolsce?**
 Cena zależy od rodzaju drewna, ilości zdobień i wykończenia. Każdy projekt wyceniamy indywidualnie.
 
-**Czy wykonujecie drzwi tylko na Podhale?**\
-Nie – realizujemy drzwi góralskie na terenie całej Małopolski i w innych regionach Polski.
-
-**Jak długo trwa wykonanie drzwi góralskich?**\
+**Jak długo trwa realizacja drzwi góralskich na wymiar?**
 Średnio od 6 do 12 tygodni, w zależności od stopnia skomplikowania projektu.
 
-**Czy mogę wybrać wzór zdobienia?**\
-Tak – realizujemy własne projekty klientów lub proponujemy tradycyjne ornamenty podhalańskie.
+**Jakie zdobienia można wybrać?**
+Oferujemy tradycyjne motywy podhalańskie, wzory kwiatowe, geometryczne i indywidualne projekty.
 
-**Czy drzwi góralskie nadają się do nowoczesnych domów?**\
-Tak – coraz częściej łączymy tradycyjny styl góralski z nowoczesną architekturą.
+**Czy drzwi góralskie są trwałe?**
+Tak – wykonujemy je z litego drewna i odpowiednio zabezpieczamy przed warunkami atmosferycznymi.
 
 ---
 
-## Skontaktuj się z nami
+## Chcesz zamówić drzwi góralskie na wymiar w Małopolsce?
 
-Planujesz zamówić **drzwi góralskie** na wymiar w **Małopolsce**?\
-W **Zakładzie Stolarskim Wsół** wykonujemy drzwi, okna i schody drewniane na wymiar - solidne, estetyczne i dopasowane do Twojego domu.
+Postaw na **drzwi góralskie**, które łączą piękno tradycji i solidne wykonanie. Skontaktuj się z nami, aby omówić swój
+projekt i otrzymać darmową wycenę.
 
-- Skontaktuj się z nami pod numerem telefonu **+48 534 630 520**
-- Możesz też wysłać wiadomość na adres **stolarz.wsol@op.pl**
-- Nasz zakład mieści się w **Koninie** (gm. Niedźwiedź, pow. limanowski, Małopolska)
-- Realizujemy zamówienia w całej **Małopolsce** – od Limanowej po Kraków i okolice.
+- Telefon: **+48 534 630 520**
+- E-mail: **stolarz.wsol@op.pl**
+- Adres: **Konina**, gm. Niedźwiedź, pow. limanowski, Małopolska
+
+Obsługujemy całą **Małopolskę** – od Zakopanego i Nowego Targu po Kraków i okolice.
+
+---
+
+## Sprawdź też inne nasze oferty stolarskie
+
+- [Drzwi drewniane na wymiar](/oferta/drzwi-drewniane/)
+- [Schody drewniane na wymiar](/oferta/schody-drewniane/)
+- [Okna drewniane na wymiar](/oferta/okna-drewniane/)
+- [Profesjonalna obróbka CNC](/oferta/obrobka-cnc/)
+- [Kompleksowe usługi stolarskie](/oferta/uslugi-stolarskie/)
 
 ---
 

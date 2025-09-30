@@ -27,77 +27,81 @@ images:
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145780/20240111_154121_wbb2iy_v7vgec.webp
     alt: Okno drewniane 7
 ---
+
 # Okna drewniane na wymiar w Małopolsce
 
-Okna drewniane to inwestycja na lata – łączą naturalne piękno drewna z doskonałą izolacyjnością i trwałością. W Stolarni
-Tadeusz Wsół w Koninie (gmina Niedźwiedź, powiat limanowski, Małopolska) od wielu lat specjalizujemy się w produkcji
-okien drewnianych na wymiar, dopasowanych do architektury budynków oraz indywidualnych potrzeb klienta.
-
-Nasze okna powstają z drewna najwyższej jakości, a każdy etap produkcji – od projektu, przez obróbkę CNC, po ręczne
-wykończenie – wykonywany jest z dbałością o każdy detal. Dzięki temu oferujemy produkty solidne, energooszczędne i
-estetyczne, które sprawdzą się zarówno w domach jednorodzinnych, jak i obiektach komercyjnych.
+Eleganckie i trwałe **okna drewniane na wymiar** to inwestycja w komfort, estetykę i oszczędność energii. W **Stolarni
+Wsół** od
+lat tworzymy **okna z litego drewna**, które łączą nowoczesne technologie z tradycyjnym rzemiosłem. Nasze realizacje
+zdobią
+domy i budynki w całej **Małopolsce** – od Krakowa, przez Limanową, po Nowy Sącz i okolice.
 
 ---
 
-## Dlaczego warto wybrać okna drewniane?
+## Poznaj naszą ofertę okien drewnianych
 
-- **Naturalny wygląd** — drewno tworzy ciepły, elegancki klimat w każdym wnętrzu.
-- **Energooszczędność** — okna drewniane znakomicie izolują termicznie i akustycznie.
-- **Trwałość** — odpowiednio zabezpieczone drewno wytrzymuje dziesięciolecia.
-- **Indywidualny projekt** — wykonujemy okna w dowolnych kształtach, kolorach i rozmiarach.
-- **Ekologia** — korzystamy z drewna z certyfikowanych źródeł, przyjaznego środowisku.
-
----
-
-## Rodzaje okien drewnianych, które wykonujemy
-
-- **Okna jednoramowe** — standardowe, idealne do nowoczesnych budynków.
-- **Okna skrzynkowe** — stosowane w budynkach zabytkowych, zgodne z wymogami konserwatorskimi.
-- **Okna rozwierno-uchylne** — praktyczne i wygodne w codziennym użytkowaniu.
-- **Okna energooszczędne** — z szybami dwukomorowymi, zapewniające świetną izolację.
-- **Okna nietypowe** — okrągłe, łukowe, panoramiczne – tworzymy je na indywidualne zamówienie.
-
-Każdy model można dopasować do wymagań budynku – od wyboru drewna, przez kolorystykę, po okucia renomowanych marek.
+- **Okna klasyczne drewniane** – idealne do domów jednorodzinnych i mieszkań
+- **Okna energooszczędne** – nowoczesne rozwiązania, które obniżają koszty ogrzewania
+- **Okna stylizowane** – tradycyjne okna do budynków zabytkowych i domów w stylu regionalnym
+- **Okna drewniane z szybami zespolonymi** – estetyka połączona z doskonałą izolacją
 
 ---
 
-## Proces realizacji zamówienia
+## Dlaczego warto wybrać nasze okna drewniane?
 
-1. **Konsultacja i pomiar** — poznajemy potrzeby klienta i wykonujemy dokładne pomiary.
-1. **Projekt i wycena** — przygotowujemy indywidualną propozycję i szczegółowy kosztorys.
-1. **Produkcja okien** — realizujemy projekt w naszej stolarni w Koninie, z użyciem CNC i ręcznego wykończenia.
-1. **Transport i montaż** — dostarczamy i montujemy okna na terenie całej Małopolski.
-
----
-
-## Najczęściej zadawane pytania (FAQ)
-
-**Ile kosztują okna drewniane?**\
-Cena zależy od rodzaju drewna, wielkości okna, typu szyb i okuć. Podstawowy model zaczyna się od X zł.
-
-**Czy wykonujecie montaż okien?**\
-Tak, oferujemy kompleksową usługę: pomiar, projekt, produkcję, transport i profesjonalny montaż.
-
-**Jak długo trwa realizacja zamówienia?**\
-Średnio od 6 do 10 tygodni, w zależności od stopnia skomplikowania projektu.
-
-**Czy wykonujecie okna do budynków zabytkowych?**\
-Tak, specjalizujemy się w oknach skrzynkowych zgodnych z wymogami konserwatorskimi.
-
-**Czy można wybrać kolor i rodzaj drewna?**\
-Tak – oferujemy szeroką gamę gatunków drewna i kolorystykę dostosowaną do stylu budynku.
+- **Certyfikowane drewno** – gwarancja jakości i trwałości
+- **Nowoczesne technologie** – doskonała izolacja termiczna i akustyczna
+- **Indywidualny projekt** – dopasowanie kształtu i stylu do Twojego domu
+- **Eleganckie wykończenie** – estetyka, która podkreśla charakter budynku
 
 ---
 
-## Skontaktuj się z nami
+## Jak wygląda proces realizacji okien drewnianych?
 
-Planujesz zamówić **okna drewniane** na wymiar w **Małopolsce**?\
-W **Zakładzie Stolarskim Wsół** wykonujemy drzwi, okna i schody drewniane na wymiar - solidne, estetyczne i dopasowane do Twojego domu.
+1. **Pomiar i doradztwo** – dobór odpowiednich parametrów i stylu okien
+2. **Projekt okien drewnianych** – wizualizacja i dopasowanie do budynku
+3. **Produkcja** – wykonanie z najlepszego drewna i komponentów
+4. **Montaż** – profesjonalna instalacja zapewniająca szczelność i bezpieczeństwo
 
-- Skontaktuj się z nami pod numerem telefonu **+48 534 630 520**
-- Możesz też wysłać wiadomość na adres **stolarz.wsol@op.pl**
-- Nasz zakład mieści się w **Koninie** (gm. Niedźwiedź, pow. limanowski, Małopolska)
-- Realizujemy zamówienia w całej **Małopolsce** – od Limanowej po Kraków i okolice.
+---
+
+## Najczęściej zadawane pytania odnośnie okien drewnianych
+
+**Ile kosztują okna drewniane na wymiar w Małopolsce?**
+Cena zależy od rodzaju drewna, wymiarów i wykończenia. Przygotowujemy indywidualną wycenę po konsultacji i pomiarze.
+
+**Jak długo trwa produkcja okien drewnianych na wymiar?**
+Średni czas realizacji to 6–8 tygodni, w zależności od stopnia skomplikowania projektu.
+
+**Czy okna drewniane są energooszczędne?**
+Tak – stosujemy nowoczesne pakiety szybowe i systemy uszczelnień, które poprawiają izolację cieplną i akustyczną.
+
+**Czy działacie tylko w Małopolsce?**
+Głównie tak – obsługujemy klientów w całym regionie, m.in. w Krakowie, Nowym Sączu, Limanowej, Myślenicach i okolicach.
+
+---
+
+## Chcesz zamówić okna drewniane na wymiar w Małopolsce?
+
+Zadbaj o komfort i wygląd swojego domu.
+Wybierz okna drewniane na wymiar od Stolarni Wsół – energooszczędne, eleganckie i trwałe.
+Skontaktuj się z nami już dziś i otrzymaj darmową wycenę.
+
+- Telefon: **+48 534 630 520**
+- E-mail: **stolarz.wsol@op.pl**
+- Adres: **Konina**, gm. Niedźwiedź, pow. limanowski, Małopolska
+
+Obsługujemy całą **Małopolskę** – od Krakowa po Nowy Sącz i okolice.
+
+---
+
+## Sprawdź też inne nasze oferty stolarskie
+
+- [Drzwi drewniane na wymiar](/oferta/drzwi-drewniane/)
+- [Schody drewniane na wymiar](/oferta/schody-drewniane/)
+- [Drzwi góralskie na wymiar](/oferta/drzwi-goralskie/)
+- [Profesjonalna obróbka CNC](/oferta/obrobka-cnc/)
+- [Kompleksowe usługi stolarskie](/oferta/uslugi-stolarskie/)
 
 ---
 
