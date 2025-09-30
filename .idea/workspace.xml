@@ -53,7 +53,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/karol-majerczyk/Pulpit/kmlab-webdev/wsol-landing-page/public",
+    "last_opened_file_path": "/home/karol-majerczyk/Pulpit/kmlab-webdev/wsol-landing-page",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -101,6 +101,7 @@
       <workItem from="1758307128484" duration="184349000" />
       <workItem from="1758911401990" duration="14297000" />
       <workItem from="1758930220868" duration="49060000" />
+      <workItem from="1759219975100" duration="1150000" />
     </task>
     <servers />
   </component>
