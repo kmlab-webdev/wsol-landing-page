@@ -1,0 +1,110 @@
+---
+import {CldImage} from "astro-cloudinary";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.header.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'header'.");
+}
+
+const {title, logo, links} = data;
+---
+
+<!-- Header Section -->
+<header>
+
+    <!-- Main Nav -->
+    <nav class="bg-white border-b-2 border-gray-200 fixed w-full z-20 top-0 start-0 px-6 sm:px-10 md:px-14 lg:px-18 xl:px-22" aria-label="Główna nawigacja">
+        <div class="container flex flex-wrap items-center justify-between gap-4 py-3 sm:py-6">
+
+            <!-- Logo -->
+            <a href="/#home" class="flex items-center gap-2">
+                <CldImage
+                        src={logo.src}
+                        alt={logo.alt}
+                        width={50}
+                        height={50}
+                        crop="scale"
+                        format="auto"
+                        quality="auto"
+                        loading="eager"
+                        decoding="async"
+                        fetchpriority="high"
+                        class="object-contain aspect-square"
+                />
+                <p class="font-bold whitespace-nowrap prose-2xl">
+                    {title}
+                </p>
+            </a>
+
+            <!-- Hamburger Menu Button -->
+            <button id="hamburger-btn" data-collapse-toggle="navbar-sticky" type="button"
+                    aria-controls="navbar-sticky" aria-expanded="false"
+                    class="inline-flex items-center justify-center p-2 w-10 h-10 text-sm rounded-lg lg:hidden text-black focus:outline-none focus:bg-[var(--clr-accent)] focus:text-white hover:bg-[var(--clr-accent)] hover:text-white cursor-pointer"
+            >
+                <span class="sr-only">Otwórz menu</span>
+                <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                     fill="none" viewBox="0 0 17 14"
+                >
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                          stroke-width="2" d="M1 1h15M1 7h15M1 13h15"
+                    />
+                </svg>
+            </button>
+
+            <!-- Navigation List -->
+            <div id="navbar" class="lg:flex items-center justify-between hidden w-full lg:w-auto">
+                <ul class="flex flex-col lg:flex-row gap-2 mt-4 lg:mt-0 bg-white font-medium rounded-lg">
+                    {
+                        links.map(({name, url}) => (
+                                <li>
+                                    <a href={url} class="nav-link block py-2 px-2 rounded-sm text-black/70 hover:bg-[var(--clr-accent)] hover:text-white prose min-w-full">
+                                      {name}
+                                    </a>
+                                </li>
+                        ))
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<script>
+    const hamburgerBtn = document.querySelector('#hamburger-btn');
+    const navbar = document.querySelector('#navbar');
+    const sections = document.querySelectorAll("section[id]");
+    const navLinks = document.querySelectorAll(".nav-link");
+
+    hamburgerBtn.addEventListener('click', () => {
+        navbar.classList.toggle("hidden");
+    });
+
+    navLinks.forEach((link) => {
+        link.addEventListener("click", (e) => {
+            if (!navbar.classList.contains("hidden")) {
+                navbar.classList.add("hidden");
+            }
+        })
+    })
+
+    const observer = new IntersectionObserver(
+        entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const id = entry.target.getAttribute("id");
+                    navLinks.forEach(link => {
+                        link.classList.toggle("active", link.getAttribute("href") === `/#${id}`);
+                    });
+                }
+            });
+        },
+        {threshold: 0.3}
+    );
+
+    sections.forEach(section => observer.observe(section));
+</script>

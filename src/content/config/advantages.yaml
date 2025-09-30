@@ -1,0 +1,37 @@
+subject: ZALETY
+title: Co wyróżnia naszą stolarkę drewnianą?
+description: >-
+  Decydując się na nasze usługi, zyskujesz pewność jakości i trwałości stolarki
+  drewnianej. Tworzymy produkty, które łączą naturalne piękno drewna z
+  nowoczesną technologią, a każde zlecenie realizujemy indywidualnie.
+button:
+  text: Sprawdź nasze realizacje
+  path: /#portfolio
+items:
+  - title: Indywidualne podejście
+    description: Doradzamy i projektujemy rozwiązania dopasowane do Twoich potrzeb.
+    image:
+      src: https://www.svgrepo.com/show/255102/handshake-deal.svg
+      alt: Ikona 1
+  - title: Jakość wykonania
+    description: Solidne materiały, estetyka i funkcjonalność na lata.
+    image:
+      src: https://www.svgrepo.com/show/255162/trophy.svg
+      alt: Ikona 2
+  - title: Precyzja
+    description: Nowoczesne maszyny CNC pozwalają na dokładne i powtarzalne realizacje.
+    image:
+      src: https://www.svgrepo.com/show/255189/gear.svg
+      alt: Ikona 3
+  - title: Ekologia
+    description: Drewno z certyfikowanych źródeł i ekologiczne powłoki ochronne.
+    image:
+      src: https://www.svgrepo.com/show/255143/growth.svg
+      alt: Ikona 4
+  - title: Doświadczenie
+    description: >-
+      Wieloletnia praktyka w realizacji drzwi, okien i schodów drewnianych na
+      wymiar.
+    image:
+      src: https://www.svgrepo.com/show/255195/suitcase-bag.svg
+      alt: Ikona 5

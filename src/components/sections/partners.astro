@@ -1,0 +1,48 @@
+---
+import SectionHeading from "../shared/section-heading.astro";
+import PartnerCard from "../cards/partner-card.astro";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.partners.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'partners'.");
+}
+
+const {subject, title, description, button, items} = data;
+---
+
+<!-- Partners Section -->
+<section id="partnerzy" class="section" aria-labelledby="partnerzy-heading">
+    <div class="container grid xl:grid-cols-[1fr_2fr] gap-8 lg:gap-16">
+
+        <!-- Partners Heading -->
+        <SectionHeading
+                subject={subject}
+                title={title}
+                description={description}
+                heading="partnerzy-heading"
+                class="flex-col lg:flex-row lg:items-center lg:gap-16 xl:flex-col xl:gap-8"
+        />
+
+        <!-- Partners List -->
+        <ul class="grid sm:grid-cols-2 gap-8">
+            {
+                items.map(({title, description, url, image}) => (
+                        <li>
+                            <PartnerCard
+                                    title={title}
+                                    description={description}
+                                    button={button}
+                                    url={url}
+                                    image={image}
+                            />
+                        </li>
+                ))
+            }
+        </ul>
+    </div>
+</section>

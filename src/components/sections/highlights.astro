@@ -1,0 +1,32 @@
+---
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.highlights.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'highlights'.");
+}
+
+const {items} = data;
+---
+
+<!-- Highlights Section -->
+<section class="bg-white shadow-sm px-6 sm:px-10 md:px-14 lg:px-18 xl:px-22" aria-label="Dane o firmie">
+
+    <!-- Highlights List -->
+    <ul class="container grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 justify-center gap-8 py-8 place-items-center sm:place-items-start lg:place-items-center xl:place-items-start">
+        {items.map(({title, first, second, icon}) => (
+                <li class="flex flex-col sm:flex-row lg:flex-col xl:flex-row gap-4 sm:gap-8 lg:gap-4 xl:gap-8 min-w-[160px] items-center">
+                    <img src={icon.src} alt={icon.alt} width={50} height={50} loading="lazy" decoding="async"/>
+
+                    <div class="prose sm:prose-lg text-center sm:text-left lg:text-center xl:text-left">
+                        <p class="font-bold !mt-0 !mb-0 text-lg sm:text-xl">{title}</p>
+                        <p class="!mt-0 !mb-0">{first}</p>
+                        <p class="!mt-0 !mb-0">{second}</p>
+                    </div>
+                </li>
+        ))}
+    </ul>
+</section>

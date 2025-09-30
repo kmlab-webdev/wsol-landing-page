@@ -1,0 +1,48 @@
+---
+import OfferingCard from "../cards/offering-card.astro";
+import SectionHeading from "../shared/section-heading.astro";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.offerings.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'offerings'.");
+}
+
+const {subject, title, description, items} = data;
+---
+
+<!-- Offerings Section -->
+<section id="oferta" class="section" aria-labelledby="oferta-heading">
+    <div class="container flex flex-col gap-8 lg:gap-16">
+
+        <!-- Offerings Heading -->
+        <SectionHeading
+                subject={subject}
+                title={title}
+                description={description}
+                heading="oferta-heading"
+                class="flex-col lg:flex-row lg:items-center lg:gap-16"
+        />
+
+        <!-- Offerings List -->
+        <ul class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 justify-items-center">
+            {
+                items.map(({title, description, image, url}) => (
+                        <li>
+                            <OfferingCard
+                                    title={title}
+                                    description={description}
+                                    image={image}
+                                    url={url}
+                            />
+                        </li>
+
+                ))
+            }
+        </ul>
+    </div>
+</section>

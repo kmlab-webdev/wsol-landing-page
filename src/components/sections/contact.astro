@@ -1,0 +1,181 @@
+---
+import SectionHeading from "../shared/section-heading.astro";
+import {Image} from "astro:assets";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.contact.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'contact'.");
+}
+
+const {
+    subject,
+    title,
+    description,
+    contact,
+    address,
+    icons,
+    companyHeading,
+    companyLocation,
+    companyDescription,
+    listHeading,
+    formHeading
+} = data;
+
+const data2 = await reader.singletons.offerings.read();
+
+if (!data2) {
+    throw new Error("Brak danych w singletonie 'offerings'.");
+}
+
+const {items} = data2;
+---
+
+<!-- Contact Section -->
+<section id="kontakt" class="!scroll-mt-18" aria-labelledby="kontakt-heading">
+
+    <!-- Contact Details -->
+    <div class="section !mb-0">
+        <div class="container grid gap-8 lg:gap-16">
+
+            <!-- Contact Heading -->
+            <SectionHeading
+                    subject={subject}
+                    title={title}
+                    description={description}
+                    heading="kontakt-heading"
+                    class="flex-col lg:flex-row lg:items-center lg:gap-16"
+            />
+
+            <div class="grid md:grid-cols-[1fr_300px] gap-8">
+
+                <!-- Company Location -->
+                <iframe loading="lazy"
+                        src={`https://maps.google.com/maps?q=${address.town} ${address.number}, ${address.commune}%20;Polska&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near`}
+                        title={`${address.town} ${address.number}, ${address.commune}, Polska`}
+                        allowfullscreen
+                        class="w-full h-full min-h-[400px]">
+                </iframe>
+
+                <div class="grid sm:grid-cols-2 md:grid-cols-1 gap-8">
+
+                    <!-- Company Contact -->
+                    <div class="flex flex-col gap-4 p-6 border-2 border-gray-200 prose sm:prose-lg animate-scale">
+                        <h3 class="font-bold !mb-0">Kontakt</h3>
+                        <address class="flex flex-col gap-4">
+                            <div class="flex items-center gap-4">
+                                <img src={icons[0].src} alt={icons[0].alt} aria-hidden="true"
+                                       width={35} height={35} class="!mt-0 !mb-0" loading="lazy" decoding="async"/>
+                                <a href="mailto:stolarz.wsol@op.pl">{contact.email}</a>
+                            </div>
+                            <div class="flex items-center gap-4">
+                                <img src={icons[1].src} alt={icons[1].alt} aria-hidden="true"
+                                       width={35} height={35} class="!mt-0 !mb-0" loading="lazy" decoding="async"/>
+                                <a href={`tel:${contact.phone}`}>{contact.phone}</a>
+                            </div>
+                        </address>
+                    </div>
+
+                    <!-- Company Address -->
+                    <div class="flex flex-col gap-4 p-6 border-2 border-gray-200 prose sm:prose-lg animate-scale">
+                        <h3 class="font-bold !mb-0">Adres</h3>
+                        <address class="flex gap-4">
+                            <img src={icons[2].src} alt={icons[2].alt} aria-hidden="true"
+                                   width={35} height={35} class="!mt-0 !mb-0" loading="lazy" decoding="async"/>
+                            <div>
+                                <span>{address.town} {address.number},</span>
+                                <span>{address.commune} {address.zipCode},</span>
+                                <span>{address.province}</span>
+                            </div>
+                        </address>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Details  -->
+    <div class="section !bg-gray-900 !my-0">
+        <div class="container grid lg:grid-cols-2 gap-16">
+
+            <!-- Company Description -->
+            <div class="grid sm:grid-cols-[2fr_1fr] lg:grid-cols-1 gap-8 text-white prose sm:prose-lg min-w-full">
+                <div>
+                    <h2 class="font-medium text-white !mt-0 flex flex-col">
+                        {companyHeading}
+                        <span class="text-sm sm:text-base">{companyLocation}</span>
+                    </h2>
+                    <p>{companyDescription}</p>
+                </div>
+                <div>
+                    <h3 class="font-medium text-white !mt-0">{listHeading}</h3>
+                    <ul class="grid text-sm sm:text-base gap-x-8 grid-cols-2 sm:grid-cols-1 lg:grid-cols-2">
+                        {
+                            items.map(({title}) => (
+                                    <li>{title}</li>
+                            ))
+                        }
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Contact Form -->
+            <div class="flex flex-col gap-4 prose sm:prose-lg min-w-full">
+                <h3 class="font-medium text-white mb-4">{formHeading}</h3>
+
+                <form class="flex flex-col gap-8" action="https://submit-form.com/G4gWDt1YO" target="_blank">
+                    <div class="grid gap-8 md:grid-cols-2">
+                        <div>
+                            <label for="name" class="text-gray-200">Imię:</label>
+                            <input type="text" name="name" id="name"
+                                   class="w-full text-white p-2 border-0 border-b-1 border-gray-200 appearance-none focus:outline-none"
+                                   required
+                            />
+                        </div>
+                        <div>
+                            <label for="surname" class="text-gray-200">Nazwisko:</label>
+                            <input type="text" name="surname" id="surname"
+                                   class="w-full text-white p-2 border-0 border-b-1 border-gray-200 appearance-none focus:outline-none"
+                                   required
+                            />
+                        </div>
+                    </div>
+                    <div class="grid gap-8 md:grid-cols-2">
+                        <div>
+                            <label for="email" class="text-gray-200">Adres e-mail:</label>
+                            <input type="email" name="email" id="email"
+                                   class="w-full text-white p-2 border-0 border-b-1 border-gray-200 appearance-none focus:outline-none"
+                                   required
+                            />
+                        </div>
+                        <div>
+                            <label for="phone" class="text-gray-200">Numer kontaktowy:</label>
+                            <input type="tel" pattern="[0-9]{9}" name="phone"
+                                   id="phone"
+                                   class="w-full text-white p-2 border-0 border-b-1 border-gray-200 appearance-none focus:outline-none"
+                                   required
+                            />
+                        </div>
+                    </div>
+                    <div>
+                        <label for="message" class="text-gray-200">Wiadomość:</label>
+                        <textarea id="message" rows="3" name="message"
+                                  class="text-white p-4 w-full bg-gray-900 rounded-lg border-1 border-gray-200 mt-4"
+                                  required
+                        ></textarea>
+                    </div>
+
+                    <button onclick="setTimeout(() => {form.reset();}, 100);" type="submit"
+                            class="button self-center min-w-1/2" aria-label="Wyślij wiadomość">
+                        Wyślij
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</section>

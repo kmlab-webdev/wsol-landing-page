@@ -1,0 +1,20 @@
+title: ZS Wsół
+logo:
+  src: >-
+    https://res.cloudinary.com/drtuzu5rl/image/upload/v1759149468/logo_biujv8.jpg
+  alt: Zakład stolarski Wsół
+links:
+  - name: O nas
+    url: /#o-nas
+  - name: Oferta
+    url: /#oferta
+  - name: Dlaczego my
+    url: /#dlaczego-my
+  - name: FAQ
+    url: /#faq
+  - name: Portfolio
+    url: /#portfolio
+  - name: Partnerzy
+    url: /#partnerzy
+  - name: Kontakt
+    url: /#kontakt

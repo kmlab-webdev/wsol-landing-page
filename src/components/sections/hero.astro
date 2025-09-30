@@ -1,0 +1,53 @@
+---
+import {CldImage} from "astro-cloudinary"
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.hero.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'hero'.");
+}
+
+const {owner, company, location, offer, description, button, image} = data;
+---
+
+<!-- Hero Section -->
+<section id="home" class="relative w-full h-svh max-h-[827px]">
+
+    <!-- Hero Cover -->
+    <CldImage
+            src={image.src}
+            alt={image.alt}
+            width={2560}
+            height={1440}
+            crop="fill"
+            gravity="auto"
+            format="auto"
+            quality="auto"
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+            sizes="100vw"
+            class="w-full h-full object-cover aspect-[16/9]"
+    />
+
+    <!-- Hero Content -->
+    <div class="absolute top-0 h-full flex flex-col gap-8 sm:gap-12 justify-center items-start bg-black/70 px-8 sm:px-16">
+        <div class="text-white prose sm:prose-xl max-w-[55ch] pt-20">
+            <p class="!mb-0 sm:!mb-2 font-bold text-[var(--clr-accent)] text-lg sm:text-2xl">{owner}</p>
+            <h1 class="text-white flex flex-col sm:gap-2 text-3xl sm:text-6xl">
+                {company}
+                <span class="text-sm sm:text-xl font-medium mt-2">{offer}</span>
+                <span class="text-sm sm:text-base font-medium">{location}</span>
+            </h1>
+            <p>{description}</p>
+        </div>
+
+        <a href={button.path} class="button">
+            {button.text}
+        </a>
+    </div>
+</section>

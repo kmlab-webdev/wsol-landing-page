@@ -1,0 +1,15 @@
+---
+const {subject, title, description, heading, class: customClass} = Astro.props;
+---
+
+<!-- Section Heading-->
+<div class={`flex gap-8 ${customClass}`}>
+    <div class="border-l-4 border-[var(--clr-accent)] pl-4 lg:pl-6 prose sm:prose-xl">
+        <p class="!mb-0 font-bold text-[var(--clr-accent)]">
+            {subject}
+        </p>
+        <h2 id={heading} class="!mt-0 !mb-0 !min-w-[15ch]">{title}</h2>
+    </div>
+
+    <p class="lg:ml-auto border-l-2 pl-4 lg:pl-6 border-gray-200 max-w-[85ch] prose sm:prose-lg">{description}</p>
+</div>

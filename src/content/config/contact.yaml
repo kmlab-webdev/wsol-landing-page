@@ -1,0 +1,35 @@
+subject: KONTAKT
+title: Skontaktuj się z nami już dziś
+description: >-
+  Planujesz zamówić drzwi, okna lub schody drewniane na wymiar? Napisz do nas
+  lub zadzwoń – doradzimy, przygotujemy bezpłatną wycenę i pomożemy w wyborze
+  najlepszego rozwiązania dla Twojego domu.
+contact:
+  email: stolarz.wsol@op.pl
+  phone: +48 534630520
+address:
+  town: Konina
+  number: '327'
+  commune: Niedźwiedź
+  zipCode: 34-735
+  province: małopolskie
+icons:
+  - src: https://www.svgrepo.com/show/255126/envelope-message.svg
+    alt: Map icon 1
+  - src: https://www.svgrepo.com/show/255141/calendar-smartphone.svg
+    alt: Map icon 1
+  - src: https://www.svgrepo.com/show/255181/location-pin.svg
+    alt: Map icon 1
+
+companyHeading: Zakład Stolarski Wsół
+companyLocation: Konina (gm. Niedźwiedź / pow. limanowski / małopolska)
+companyDescription: >-
+  Specjalizujemy się w produkcji drzwi, okien i schodów drewnianych na wymiar,
+  które łączą trwałość, estetykę i funkcjonalność. Każdy projekt wykonujemy z
+  dbałością o detale. Działamy głównie na terenie Małopolski – w Koninie i
+  okolicznych miejscowościach – ale realizujemy również większe inwestycje dla
+  klientów indywidualnych i firm. Postaw na jakość, solidność i rękodzielniczą
+  precyzję – wybierz Zakład Stolarski Wsół i ciesz się drewnem, które służy na
+  lata.
+listHeading: Nasze usługi
+formHeading: Formularz kontaktowy

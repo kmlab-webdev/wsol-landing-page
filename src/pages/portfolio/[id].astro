@@ -1,0 +1,38 @@
+---
+import Layout from "../../layouts/layout.astro";
+import Article from "../../components/shared/article.astro";
+import Drawer from "../../components/shared/drawer.astro";
+
+import {getCollection} from 'astro:content';
+
+export async function getStaticPaths() {
+    const projects = await getCollection("projects");
+    return projects.map(project => ({
+        params: {id: project.id},
+        props: {project},
+    }));
+}
+
+const projects = await getCollection("projects");
+const {project} = Astro.props;
+
+const {metaTitle, metaDescription} = project.data;
+
+const currentPath = Astro.url.pathname;
+const url = `https://stolarzwsol.pl${currentPath}`;
+---
+
+<Layout title={metaTitle} description={metaDescription} url={url}>
+    <div class="bg-white pt-18 sm:pt-24">
+        <div class="container grid lg:grid-cols-[1fr_300px] gap-8 relative lg:p-8">
+            <Article content={project}/>
+            <Drawer title="Pozostałe projekty" page="portfolio" list={projects}/>
+        </div>
+    </div>
+</Layout>
+
+<script>
+    const currentLink = document.querySelector("a[href='/#portfolio']");
+    currentLink.classList.add("active");
+</script>
+

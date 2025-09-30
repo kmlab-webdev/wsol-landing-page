@@ -1,0 +1,28 @@
+---
+import Layout from '../layouts/layout.astro';
+import Hero from "../components/sections/hero.astro";
+import Highlights from "../components/sections/highlights.astro";
+import Offerings from "../components/sections/offerings.astro";
+import Advantages from "../components/sections/advantages.astro";
+import About from "../components/sections/about.astro";
+import Projects from "../components/sections/projects.astro";
+import Partners from "../components/sections/partners.astro";
+import Contact from "../components/sections/contact.astro";
+import Faq from "../components/sections/faq.astro";
+
+const title = "Stolarz Małopolska | drzwi, okna, schody | Tadeusz Wsół";
+const description = "Stolarz w Małopolsce – drzwi, okna i schody drewniane na wymiar. Obsługujemy Koninę i okolice. Zadzwoń: +48 534 630 520.";
+const url = "https://stolarzwsol.pl/";
+---
+
+<Layout title={title} description={description} url={url}>
+    <Hero/>
+    <Highlights/>
+    <About/>
+    <Offerings/>
+    <Advantages/>
+    <Faq/>
+    <Projects/>
+    <Partners/>
+    <Contact/>
+</Layout>

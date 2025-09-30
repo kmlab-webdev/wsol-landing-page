@@ -1,0 +1,54 @@
+---
+import {CldImage} from "astro-cloudinary"
+import SectionHeading from "../shared/section-heading.astro";
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+
+const data = await reader.singletons.about.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'about'.");
+}
+
+const {subject, title, description, button, image} = data;
+---
+
+<!-- About Section -->
+<section id="o-nas" class="section" aria-labelledby="o-nas-heading">
+    <div class="container">
+        <div class="grid md:grid-cols-2 gap-16">
+
+            <!-- About Content -->
+            <div class="flex flex-col items-start gap-8">
+                <SectionHeading
+                        subject={subject}
+                        title={title}
+                        description={description}
+                        heading="o-nas-heading"
+                        class="flex-col items-start"
+                />
+                <a href={button.path} class="button">
+                    {button.text}
+                </a>
+            </div>
+
+            <!-- About Image -->
+            <CldImage
+                    src={image.src}
+                    alt={image.alt}
+                    width={1000}
+                    height={900}
+                    crop="fill"
+                    gravity="auto"
+                    quality="auto"
+                    format="auto"
+                    loading="lazy"
+                    decoding="async"
+                    sizes="(max-width: 768px) 100vw, 50vw"
+                    class="w-full h-full object-cover rounded-2xl"
+            />
+        </div>
+    </div>
+</section>

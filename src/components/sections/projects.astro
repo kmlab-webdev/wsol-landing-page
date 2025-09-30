@@ -1,0 +1,67 @@
+---
+import SectionHeading from "../shared/section-heading.astro";
+
+import {getCollection} from 'astro:content';
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+import {CldImage} from "astro-cloudinary";
+
+const projects = await getCollection("projects");
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.portfolio.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'portfolio'.");
+}
+
+const {subject, title, description, button, images} = data;
+---
+
+<!-- Portfolio Section -->
+<section id="portfolio" class="section" aria-labelledby="portfolio-heading">
+    <div class="container">
+        <div class="flex flex-col gap-8 lg:gap-16">
+
+            <!-- Portfolio Heading -->
+            <SectionHeading
+                    subject={subject}
+                    title={title}
+                    description={description}
+                    heading="portfolio-heading"
+                    class="flex-col lg:flex-row lg:items-center lg:gap-16"
+            />
+
+            <!-- Portfolio List -->
+            <ul class="flex gap-6 overflow-x-auto xl:grid grid-cols-4 xl:auto-rows-[400px] pb-6 xl:pb-0">
+                {
+                    images.map((image) => (
+                            <li class="min-w-fit animate-scale">
+                                <a href={image.src}>
+                                    <CldImage
+                                            src={image.src}
+                                            alt={image.alt}
+                                            width={300}
+                                            height={500}
+                                            crop="fill"
+                                            gravity="center"
+                                            quality="auto"
+                                            format="auto"
+                                            loading="lazy"
+                                            decoding="async"
+                                            sizes="300px"
+                                            class="w-full h-[500px] xl:h-[400px] object-cover brightness-90"
+                                    />
+                                </a>
+                            </li>
+                    ))
+                }
+            </ul>
+
+            <!-- Portfolio Button -->
+            <a href={`/portfolio/${projects[0].id}`} class="self-center button">
+                {button}
+            </a>
+        </div>
+    </div>
+</section>

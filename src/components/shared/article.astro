@@ -1,0 +1,72 @@
+---
+import {CldImage} from "astro-cloudinary"
+import {render} from 'astro:content';
+
+const {content} = Astro.props;
+const {images} = content.data;
+const {Content} = await render(content);
+---
+
+<!-- Article -->
+<article class="flex flex-col lg:border-2 border-gray-200 lg:rounded-lg overflow-hidden">
+
+    <!-- Article Cover -->
+    <div class="h-[300px] sm:h-[500px] relative">
+        <CldImage
+                src={images[0].src}
+                alt={images[0].alt}
+                width={1000}
+                height={500}
+                crop="fill"
+                gravity="center"
+                format="auto"
+                quality="auto"
+                loading="eager"
+                decoding="async"
+                fetchpriority="high"
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                class="w-full h-full object-cover brightness-90"
+        />
+
+        <!-- Gallery Button -->
+        <a href="#gallery" class="absolute bottom-4 sm:bottom-8 left-1/2 transform -translate-x-1/2">
+            <button class="button" type="button">
+                Zobacz zdjęcia
+            </button>
+        </a>
+    </div>
+
+    <!-- Article Content-->
+    <div class="min-w-full p-8 sm:p-12 flex flex-col gap-8">
+        <div class="prose sm:prose-lg min-w-full">
+            <Content/>
+        </div>
+
+        <!-- Articles List -->
+        <div id="gallery" class="!scroll-mt-42 sm:!scroll-mt-48">
+            <ul class="flex gap-6 overflow-auto !pl-0 !ml-0 pb-6">
+                {images.map((image) => (
+                        <li class="min-w-fit animate-scale">
+                            <a href={image.src}>
+                                <CldImage
+                                        src={image.src}
+                                        alt={image.alt}
+                                        width={300}
+                                        height={500}
+                                        crop="fill"
+                                        gravity="center"
+                                        quality="auto"
+                                        format="auto"
+                                        loading="lazy"
+                                        decoding="async"
+                                        sizes="400px"
+                                        class="w-full h-[500px] object-cover"
+                                />
+                            </a>
+                        </li>
+                ))}
+            </ul>
+        </div>
+
+    </div>
+</article>

@@ -1,0 +1,87 @@
+---
+import SectionHeading from "../shared/section-heading.astro";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.faq.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'faq'.");
+}
+
+const {subject, title, description, questions} = data;
+---
+
+<section id="faq" class="section" aria-labelledby="faq-heading">
+    <div class="container grid lg:grid-cols-[1fr_2fr] gap-8 lg:gap-16">
+
+        <!-- Contact Heading -->
+        <SectionHeading
+                subject={subject}
+                title={title}
+                description={description}
+                heading="faq-heading"
+                class="flex-col lg:items-center"
+        />
+
+        <!-- FAQ Accordion -->
+        <div id="accordion-collapse" data-accordion="collapse" class="prose sm:prose-lg min-w-full">
+            {
+                questions.map(({question, answer}, index, array) => (
+                        <h3 id={`accordion-collapse-heading-${index + 1}`} class="!mb-0 !mt-0 bg-[var(--clr-accent)]">
+                            <button type="button"
+                                    class="flex items-center justify-between w-full p-5 font-medium border border-gray-200 gap-3 cursor-pointer"
+                                    data-accordion-target={`#accordion-collapse-body-${index + 1}`}
+                                    aria-expanded={index === 0 ? "true" : "false"}
+                                    aria-controls={`accordion-collapse-body-${index + 1}`}>
+                                <span class="text-white text-left !text-lg !sm:text-xl">{index + 1}. {question}</span>
+                                <svg data-accordion-icon
+                                     class={`w-3 h-3 shrink-0 transition-transform ${index === 0 ? "" : "rotate-180"}`}
+                                     aria-hidden="true"
+                                     xmlns="http://www.w3.org/2000/svg" fill="" viewBox="0 0 10 6"
+                                >
+                                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                                          stroke-width="2"
+                                          d="M9 5 5 1 1 5"/>
+                                </svg>
+                            </button>
+                        </h3>
+                        <div id={`accordion-collapse-body-${index + 1}`} class={`${index !== 0 ? "hidden" : ""}`}
+                             aria-labelledby={`accordion-collapse-heading-${index + 1}`}>
+                            <div class={`p-4 lg:p-6 xl:p-8 border border-gray-200 ${index !== array.length - 1 ? "border-b-0" : ""}`}>
+                                <p class="!mt-0 !mb-0">{answer}</p>
+                            </div>
+                        </div>
+                ))
+            }
+        </div>
+    </div>
+</section>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const buttons = document.querySelectorAll("#accordion-collapse button");
+
+        buttons.forEach((btn) => {
+            btn.addEventListener("click", () => {
+                const expanded = btn.getAttribute("aria-expanded") === "true";
+                const body = document.getElementById(btn.getAttribute("aria-controls"));
+
+                buttons.forEach((btn) => {
+                    btn.setAttribute("aria-expanded", "false");
+                    const panel = document.getElementById(btn.getAttribute("aria-controls"));
+                    panel.classList.add("hidden");
+                    btn.querySelector("svg").classList.add("rotate-180");
+                });
+
+                if (!expanded) {
+                    btn.setAttribute("aria-expanded", "true");
+                    body.classList.remove("hidden");
+                    btn.querySelector("svg").classList.remove("rotate-180");
+                }
+            });
+        });
+    });
+</script>

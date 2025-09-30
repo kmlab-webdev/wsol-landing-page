@@ -1,0 +1,63 @@
+subject: OFERTA
+title: Co możemy dla Ciebie wykonać?
+description: >-
+  W Zakładzie Stolarskim Wsół wykonujemy kompleksowe usługi stolarskie. Tworzymy
+  drzwi, okna, schody i elementy wykończeniowe z litego drewna, realizując
+  projekty indywidualne i dopasowane do architektury budynku. Każdy produkt
+  powstaje z najlepszych materiałów, zapewniając trwałość, energooszczędność i
+  unikalny design.
+items:
+  - title: Drzwi drewniane
+    description: >-
+      Drzwi drewniane na wymiar – zewnętrzne i wewnętrzne, klasyczne, nowoczesne
+      lub stylowe, z najlepszymi okuciami i wykończeniami.
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145776/IMG-20220810-WA0011_t4yy7q_ermw4p.webp
+      alt: Obraz 1
+    url: /oferta/drzwi-drewniane/
+  - title: Schody drewniane
+    description: >-
+      Schody drewniane – proste, zabiegowe, samonośne, na konstrukcjach
+      stalowych lub drewnianych, z montażem i pełną gwarancją bezpieczeństwa.
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145781/IMG-20230313-WA0017_dln3ru_gwvtxy.webp
+      alt: Obraz 2
+    url: /oferta/schody-drewniane/
+  - title: Okna drewniane
+    description: >-
+      Okna drewniane energooszczędne – certyfikowane drewno, doskonała izolacja
+      i komfort użytkowania przez długie lata.
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145779/20210213_161906_bkghqw_sswzow.webp
+      alt: Obraz 3
+    url: /oferta/okna-drewniane/
+  - title: Drzwi góralskie
+    description: >-
+      Drzwi góralskie – unikalne rękodzieło, tradycyjne zdobienia i styl
+      regionalny idealny do domów i pensjonatów.
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145771/20230420_110211_nbrh6k_qran4y.webp
+      alt: Obraz 4
+    url: /oferta/drzwi-goralskie/
+  - title: Obróbka CNC
+    description: >-
+      Obróbka CNC – precyzyjne frezowanie i cięcie, elementy dekoracyjne,
+      nietypowe wzory, realizacja indywidualnych projektów.
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145899/20210313_170957_oo2jyi_pqszww.webp
+      alt: Obraz 5
+    url: /oferta/obrobka-cnc/
+  - title: Usługi stolarskie
+    description: >-
+      Usługi stolarskie – wykończenia wnętrz i inne elementy drewniane
+      wykonywane na zamówienie.
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145911/20221208_160515_f9pkeh_lahlbx.webp
+      alt: Obraz 6
+    url: /oferta/uslugi-stolarskie/

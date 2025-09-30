@@ -1,0 +1,67 @@
+---
+import {CldImage} from "astro-cloudinary"
+
+const {title, page, list} = Astro.props;
+---
+
+<!-- Drawer Button -->
+<div id="open-btn" class="absolute top-0 right-0 mx-4 my-6 lg:hidden">
+    <button class="button" type="button"  aria-controls="drawer" aria-expanded="false">
+        {title}
+    </button>
+</div>
+
+<!-- Drawer -->
+<div id="drawer"
+     class="flex flex-col gap-6 fixed top-0 right-0 z-40 h-dvh transition-transform translate-x-full lg:static lg:translate-x-0 lg:z-0 bg-white border-l-2 border-gray-200 lg:border-none max-w-[400px] p-6 pr-0 lg:p-0" aria-labelledby="drawer-heading">
+
+    <!-- Drawer Heading -->
+    <div class="flex justify-between items-center py-2 pr-6 prose sm:prose-lg">
+        <h3 id="drawer-heading" class="font-medium !mb-0">{title}</h3>
+        <button id="close-btn" type="button" class="button !px-4 !py-1 lg:hidden">
+            X
+            <span class="sr-only">Close menu</span>
+        </button>
+    </div>
+
+    <!-- Drawer List -->
+    <ul class="flex flex-col gap-4 overflow-auto max-h-screen">
+        {list.map((item) => (
+                <li class="flex flex-col border-2 border-gray-200 rounded-lg mr-6 animate-scale">
+                    <a href={`/${page}/${item.id}`}>
+                        <CldImage
+                                src={item.data.images[0].src}
+                                alt={item.data.images[0].alt}
+                                width={350}
+                                height={350}
+                                crop="fill"
+                                gravity="auto"
+                                quality="auto"
+                                format="auto"
+                                loading="lazy"
+                                decoding="async"
+                                sizes="350px"
+                                class="w-full h-auto object-cover rounded-t-lg brightness-90"
+                        />
+                        <p class="font-medium p-4 text-center prose sm:prose-lg">{item.data.title}</p>
+                    </a>
+                </li>
+        ))}
+    </ul>
+</div>
+
+<script>
+    const openDrawerBtn = document.querySelector("#open-btn");
+    const closeDrawerBtn = document.querySelector("#close-btn");
+    const drawer = document.querySelector("#drawer");
+
+    openDrawerBtn.addEventListener("click", () => {
+        drawer.classList.remove("translate-x-full");
+        drawer.classList.add("translate-x-0");
+    })
+
+    closeDrawerBtn.addEventListener("click", () => {
+        drawer.classList.remove("translate-x-0");
+        drawer.classList.add("translate-x-full");
+    })
+</script>

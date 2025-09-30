@@ -1,0 +1,57 @@
+---
+import {Image} from "astro:assets";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.header.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'header'.");
+}
+
+const {links} = data;
+
+const data2 = await reader.singletons.footer.read();
+
+if (!data2) {
+    throw new Error("Brak danych w singletonie 'footer'.");
+}
+
+const {name, description, icon} = data2;
+---
+
+<!-- Footer Section -->
+<footer class="text-white shadow-sm bg-[var(--clr-accent)] p-8">
+    <div class="container flex flex-col justify-between items-center gap-8">
+
+        <!-- Footer Nav-->
+        <nav class="flex flex-wrap justify-center gap-4 md:flex-row font-medium" aria-label="Stopka – szybkie linki">
+            {
+                links.map((link) => (
+                        <a href={link.url} class="button hover:text-[var(--clr-accent)] hover:bg-white">
+                            {link.name}
+                        </a>
+                ))
+            }
+        </nav>
+
+        <!-- Website Creator -->
+        <div class="flex items-center gap-4 sm:gap-8">
+            <hr class="w-4 sm:w-24">
+            <a href={icon.url} class="button !pt-0 !pb-0 flex gap-4 w-max">
+                <img src={icon.src} alt={icon.alt} width={60} height={60} class="!mb-0 !mt-0" loading="lazy" decoding="async"/>
+
+                <div>
+                    <strong class="font-bold">{name}</strong>
+                    <p class="font-medium !mt-0 !mb-0">{description}</p>
+
+                </div>
+            </a>
+            <hr class="w-4 sm:w-24">
+        </div>
+
+    </div>
+</footer>
+

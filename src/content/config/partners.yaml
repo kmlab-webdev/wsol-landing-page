@@ -1,0 +1,29 @@
+subject: FIRMY
+title: Poznaj naszych zaufanych dostawców
+description: >-
+  W naszej pracy stawiamy na jakość od początku do końca procesu. Dlatego
+  współpracujemy wyłącznie ze sprawdzonymi producentami okuć i akcesoriów
+  stolarskich, którzy od lat cieszą się renomą na rynku. Wybieramy firmy
+  oferujące trwałe zawiasy, klamki, szyldy i systemy mocowań, ponieważ wiemy, że
+  to właśnie detale decydują o komforcie użytkowania drzwi, okien czy schodów
+  drewnianych.
+button: Sprawdź ofertę
+items:
+  - title: Metal-Bud
+    description: >-
+      Polski producent okuć drzwiowych od 1965 roku. Klamki, zawiasy i szyldy
+      łączące tradycję z nowoczesnym designem.
+    url: https://metal-bud.eu/
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145840/xmetalbudlogo.png.pagespeed.ic.cQbNi8d0UE_rs50wv_jlvihp.webp
+      alt: Obraz 1
+  - title: Maco
+    description: >-
+      Austriacki producent okuć okiennych i drzwiowych z ponad 75-letnim
+      doświadczeniem. Innowacyjne, funkcjonalne i wytrzymałe rozwiązania.
+    url: https://www.maco.eu/pl-PL/Firma
+    image:
+      src: >-
+        https://res.cloudinary.com/drtuzu5rl/image/upload/v1759145840/Maco-logo_rlibzq_innjcv.webp
+      alt: Obraz 2

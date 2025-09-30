@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+:root {
+    --clr-accent: #9a6c59;
+}
+
+* {
+    scrollbar-width: auto;
+    scrollbar-color: var(--clr-accent) #f5f5f5;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #c5853a;
+    border-radius: 8px;
+    border: 4px solid #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #a96b28;
+}
+
+/* Styles */
+
+html {
+    scroll-behavior: smooth;
+}
+
+.section {
+    @apply bg-white shadow-sm my-16 scroll-mt-18 px-6 sm:px-10 md:px-14 lg:px-18 xl:px-22 py-8 sm:py-12 md:py-16 lg:py-20 xl:py-24;
+}
+
+.container {
+    @apply max-w-7xl mx-auto;
+}
+
+.button {
+    @apply bg-[var(--clr-accent)] text-white font-bold
+    cursor-pointer transform transition-transform duration-200
+    hover:scale-105 rounded-sm no-underline prose sm:prose-lg px-3 py-2;
+}
+
+.animate-scale {
+    @apply cursor-pointer transform hover:scale-97 transition-transform duration-200;
+}
+
+.active {
+    @apply bg-[var(--clr-accent)] text-white;
+}
+
+article h1 {
+    @apply text-2xl sm:text-4xl;
+}
+
+article h2 {
+    @apply text-xl sm:text-2xl;
+}
+
+article h3 {
+    @apply text-lg sm:text-xl;
+}
+
+article h1, article h2, article h3, article h4, article h5, article h6 {
+    @apply border-l-6 border-[var(--clr-accent)] pl-6;
+}
+
+article p, article ul, article ol {
+    @apply md:ml-8;
+}
+
+article hr {
+    @apply mt-8 sm:mt-12 mb-8 sm:mb-12;
+}

@@ -1,0 +1,25 @@
+items:
+  - title: Właściciel
+    first: Tadeusz Wsół
+    second: Zakład Stolarski
+    icon:
+      src: https://www.svgrepo.com/show/255146/profile-user.svg
+      alt: Map icon 1
+  - title: Adres
+    first: Konina 327
+    second: Niedźwiedź 34-735
+    icon:
+      src: https://www.svgrepo.com/show/255181/location-pin.svg
+      alt: Map icon 2
+  - title: Kontakt
+    first: +48 534630520
+    second: stolarz.wsol@op.pl
+    icon:
+      src: https://www.svgrepo.com/show/255141/calendar-smartphone.svg
+      alt: Phone icon 3
+  - title: Godziny
+    first: Pon-Pt 8:00-17:00
+    second: So-Nd Nieczynne
+    icon:
+      src: https://www.svgrepo.com/show/255120/time-watch.svg
+      alt: Clock icon 4

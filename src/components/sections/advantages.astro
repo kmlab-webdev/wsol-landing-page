@@ -1,0 +1,49 @@
+---
+import SectionHeading from "../shared/section-heading.astro";
+
+import {createReader} from '@keystatic/core/reader';
+import keystaticConfig from '../../../keystatic.config';
+
+const reader = createReader(process.cwd(), keystaticConfig);
+const data = await reader.singletons.advantages.read();
+
+if (!data) {
+    throw new Error("Brak danych w singletonie 'advantages'.");
+}
+
+const {subject, title, description, button, items} = data;
+---
+
+<!-- Advantages Section -->
+<section id="dlaczego-my" class="section flex flex-col gap-8 lg:gap-16" aria-labelledby="dlaczego-my-heading">
+    <div class="container grid sm:grid-cols-2 xl:grid-cols-3 gap-8">
+
+        <!-- Advantages Heading -->
+        <SectionHeading
+                subject={subject}
+                title={title}
+                description={description}
+                heading="dlaczego-my-heading"
+                class="flex-col sm:col-span-2 md:col-span-1"
+        />
+
+        <!-- Advantages List -->
+        {
+            items.map(({title, description, image}) => (
+                    <div class="border-2 border-gray-200 p-6 lg:p-8 flex flex-col gap-2 sm:gap-4 items-center justify-start rounded-sm animate-scale">
+                        <img src={image.src} alt={image.alt} width={50} height={50} loading="lazy" decoding="async" class="w-15 md:w-20" />
+
+                        <div class="text-center prose sm:prose-lg">
+                            <h3 class="mt-2 lg:mt-4">{title}</h3>
+                            <p>{description}</p>
+                        </div>
+                    </div>
+            ))
+        }
+    </div>
+
+    <!-- Portfolio Button -->
+    <a href={button.path} class="self-center button">
+        {button.text}
+    </a>
+</section>
