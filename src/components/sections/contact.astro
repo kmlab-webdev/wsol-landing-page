@@ -127,7 +127,9 @@ const {items} = data2;
             <div class="flex flex-col gap-4 prose sm:prose-lg min-w-full">
                 <h3 class="font-medium text-white mb-4">{formHeading}</h3>
 
-                <form class="flex flex-col gap-8" action="https://submit-form.com/G4gWDt1YO" target="_blank">
+                <form class="flex flex-col gap-8" action="https://api.web3forms.com/submit" method="POST" target="_blank">
+                    <input type="hidden" name="access_key" value="1531e4e9-2609-496b-9471-b787e5beca44">
+
                     <div class="grid gap-8 md:grid-cols-2">
                         <div>
                             <label for="name" class="text-gray-200">Imię:</label>
