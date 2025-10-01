@@ -1,5 +1,5 @@
 ---
-title: Drzwi góralskie - Górski
+title: Drzwi góralskie - Górski test
 metaTitle: Drzwi góralskie Małopolska | Stolarnia Tadeusz Wsół
 metaDescription: Opis drzwi górskich - Górski
 images:
