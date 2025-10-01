@@ -20,6 +20,7 @@ images:
     alt: Drzwi góralskie zbliżenie na dół
   - src: >-
       https://res.cloudinary.com/drtuzu5rl/image/upload/v1759314283/Ws%C3%B3%C5%82_A6_p3ve7x.png
+    alt: test
 ---
 # Realizacja: Drzwi góralskie z litego drewna - (Nowy Sącz, Małopolska)
 
