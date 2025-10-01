@@ -66,9 +66,6 @@ const {title, description, url} = Astro.props;
 
 
     <!-- JSON-LD Schema.org -->
-    <!--name – nazwa firmy taka jak w Google Business Profile.-->
-    <!--sprawdz na https://search.google.com/test/rich-results-->
-
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -79,13 +76,12 @@ const {title, description, url} = Astro.props;
                         "HomeAndConstructionBusiness"
                     ],
                     "@id": "https://stolarzwsol.pl/",
-                    "name": "Zakład Stolarski Tadeusz Wsół",
-                    "image": "https://stolarzwsol.netlify.app/images/logo.png",
+                    "name": "Tadeusz Wsół Zakład Stolarski",
                     "url": "https://stolarzwsol.pl/",
-                    "telephone": "+48 600 123 456",
+                    "telephone": "+48 534 630 520",
                     "address": {
                         "@type": "PostalAddress",
-                        "streetAddress": "Konina 123",
+                        "streetAddress": "Konina 327",
                         "addressLocality": "Konina",
                         "addressRegion": "Małopolskie",
                         "postalCode": "34-735",
@@ -93,8 +89,8 @@ const {title, description, url} = Astro.props;
                     },
                     "geo": {
                         "@type": "GeoCoordinates",
-                        "latitude": 49.6589,
-                        "longitude": 20.0892
+                        "latitude": 49.6186956,
+                        "longitude": 20.0994037
                     },
                     "openingHoursSpecification": [
                         {
@@ -106,14 +102,14 @@ const {title, description, url} = Astro.props;
                                 "Thursday",
                                 "Friday"
                             ],
-                            "opens": "08:00",
-                            "closes": "18:00"
+                            "opens": "07:00",
+                            "closes": "19:00"
                         },
                         {
                             "@type": "OpeningHoursSpecification",
                             "dayOfWeek": "Saturday",
-                            "opens": "09:00",
-                            "closes": "14:00"
+                            "opens": "07:00",
+                            "closes": "13:00"
                         }
                     ],
                     "priceRange": "$$",
@@ -132,27 +128,8 @@ const {title, description, url} = Astro.props;
                         }
                     ],
                     "sameAs": [
-                        "https://www.facebook.com/stolarzwsol",
-                        "https://www.instagram.com/stolarzwsol"
+                        "https://www.facebook.com/people/Zak%C5%82ad-stolarski-Tadeusz-Ws%C3%B3%C5%82/100058599296873/"
                     ]
-                },
-                {
-                    "@type": "Product",
-                    "@id": "https://stolarzwsol.pl/#product-drzwi",
-                    "name": "Drzwi drewniane dębowe na wymiar",
-                    "image": "https://stolarzwsol.netlify.app/images/drzwi-debowe.jpg",
-                    "description": "Solidne drzwi drewniane wykonane z dębu, projektowane i tworzone na wymiar dla klientów w Małopolsce.",
-                    "brand": {
-                        "@type": "Brand",
-                        "name": "Zakład Stolarski Jan Kowalski"
-                    },
-                    "offers": {
-                        "@type": "Offer",
-                        "url": "https://stolarzwsol.netlify.app/oferta/drzwi-debowe",
-                        "priceCurrency": "PLN",
-                        "price": "2500",
-                        "availability": "https://schema.org/InStock"
-                    }
                 },
                 {
                     "@type": "FAQPage",
@@ -160,26 +137,50 @@ const {title, description, url} = Astro.props;
                     "mainEntity": [
                         {
                             "@type": "Question",
-                            "name": "Czy wykonujecie drzwi drewniane na wymiar?",
+                            "name": "1. Jakie usługi stolarskie oferuje Zakład Stolarski Wsół?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Tak, wykonujemy drzwi drewniane na indywidualne zamówienie klienta. Doradzamy w wyborze drewna i stylu."
+                                "text": "Specjalizujemy się w produkcji drzwi, okien i schodów drewnianych na wymiar. Oferujemy także drzwi góralskie, precyzyjną obróbkę CNC oraz inne elementy stolarskie wykonywane indywidualnie pod zamówienie klienta. Dzięki nowoczesnym maszynom i doświadczeniu możemy realizować zarówno klasyczne projekty, jak i nietypowe zamówienia."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Czy obsługujecie całą Małopolskę?",
+                            "name": "2. Na jakim obszarze działacie?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Tak, obsługujemy klientów z całego województwa małopolskiego, w tym z powiatu limanowskiego i okolicznych miejscowości."
+                                "text": "Nasz zakład stolarski znajduje się w miejscowości Konina (gm. Niedźwiedź, pow. limanowski, Małopolska). Nasze usługi stolarskie świadczymy na terenie całej Małopolski – realizujemy projekty dla klientów z Krakowa, Tarnowa, Nowego Sącza, Oświęcimia, Zakopanego, a także mniejszych miejscowości, takich jak Myślenice, Wieliczka, Wadowice czy Olkusz. Niezależnie od tego, gdzie mieszkasz – przygotujemy drzwi, okna i schody drewniane dopasowane do Twojego domu."
                             }
                         },
                         {
                             "@type": "Question",
-                            "name": "Jak długo trwa realizacja zamówienia?",
+                            "name": "3. Ile kosztują drzwi, okna lub schody drewniane na wymiar?",
                             "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "Średni czas realizacji drzwi drewnianych wynosi 4-6 tygodni w zależności od stopnia skomplikowania projektu."
+                                "text": "Cena zależy od rodzaju drewna, wymiarów, wykończenia i zastosowanych okuć. Każde zamówienie wyceniamy indywidualnie – oferujemy darmową wycenę po kontakcie telefonicznym lub mailowym."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "4. Jak długo trwa realizacja zamówienia stolarskiego?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Czas realizacji zależy od rodzaju projektu. Średnio produkcja i montaż drzwi drewnianych na wymiar trwa od 4 do 8 tygodni, a schodów drewnianych – od 6 do 10 tygodni. W przypadku prostszych elementów stolarskich i obróbki CNC czas wykonania może być krótszy."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "5. Czy oferujecie montaż drzwi, okien i schodów?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Tak – zapewniamy kompleksową obsługę: pomiar, projekt, produkcję, transport oraz profesjonalny montaż. Dzięki temu klient otrzymuje gotowe rozwiązanie, dopasowane do domu czy mieszkania. Montaż wykonują doświadczeni fachowcy, co daje gwarancję solidności i bezpieczeństwa użytkowania."
+                            }
+                        },
+                        {
+                            "@type": "Question",
+                            "name": "6. Czy przygotowujecie projekty indywidualne?",
+                            "acceptedAnswer": {
+                                "@type": "Answer",
+                                "text": "Tak. Wykonujemy projekty stolarskie na zamówienie, dopasowane do wymagań klienta i architektury budynku. Możemy stworzyć zarówno klasyczne okna i drzwi drewniane, jak i nietypowe realizacje – np. drzwi góralskie z ręcznymi zdobieniami, elementy dekoracyjne czy wykończenia wnętrz z litego drewna."
                             }
                         }
                     ]
